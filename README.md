@@ -116,9 +116,579 @@ To be filled
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
-```
-To be Filled
-```
+### Neurological Disorder Diagnosis and Monitoring
+
+<details>
+  <summary>Alzheimer’s</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Parkinson's</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Schizophrenia</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>ADHD</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Bipolar and Borderline personality disorder</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Depression</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Anxiety(Less work has been done)</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Autism Spectrum Disorder(No Reliable Method)</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Dementia</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Dyslexia</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Epilepsy and Seizure</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Brain Tumor</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Traumatic Brain Injury</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+</details>
+
+<details>
+  <summary>Coma</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Stroke</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Brain Age Prediction</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Brain Health assessment</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Stress assessment</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Sleep disorders</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Suicidal Ideation</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Addiction</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Medical procedures or interventions
+
+</details>
+
+<details>
+  <summary>Anesthesia</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Drug development and Pharmacology</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Neurostimulation</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Pain assessment</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Communication for locked-in patients</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Amblyopia</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Cognitive and Performance Assessment
+
+<details>
+  <summary>Cognitive Load</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Working Memory</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+</details>
+
+<details>
+  <summary>Memory function</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Attention and Vigilance</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Lie Detection</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Fatigue</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Objective Performance Evaluation </summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Senses</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Neuroergonomics</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Assistive Technologies and Rehabilitation
+
+<details>
+  <summary>Brain-Computer Interfaces (BCIs)</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+</details>
+
+<details>
+  <summary>Neurorehabilitation</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Neurolinguistics</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Neuroscientific Research
+
+<details>
+  <summary>Functional Connectivity</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Developmental Neuroscience</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Education and Sports
+
+<details>
+  <summary></summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Personalized Learning</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Skill Acquisition and Training</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Neurofeedback Training</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Consumer Applications
+
+<details>
+  <summary>Emotional State Analysis</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+</details>
+
+<details>
+  <summary>Immersive Gaming and Entertainment</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Meditation and Mindfulness</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+<details>
+  <summary>Smart Home Systems</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Wearable Technology</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Marketing and Consumer Behavior
+
+<details>
+  <summary>Human-Computer Interaction (HCI)</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Neuromarketing and Advertisement</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>Neuroaesthetics</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+<details>
+  <summary>User Experience</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+</details>
+
+<details>
+  <summary>Workforce Monitoring</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+### Military and Security
+
+<details>
+  <summary>Biometric Authentication</summary>
+  
+  ```
+  To be Filled
+  ```
+
+</details>
+
+
+
+
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
