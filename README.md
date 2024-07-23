@@ -49,7 +49,7 @@
         <li><a href="#how-is-ai-applied-to-eeg">How is AI applied to EEG?</a></li>
       </ul>
     </li>
-    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalographylist">List of Artificial Intelligence Applications in Electroencephalography</a></li>
+    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">List of Artificial Intelligence Applications in Electroencephalography</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
