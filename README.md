@@ -45,11 +45,11 @@
     <li>
       <a href="#introduction-to-the-field">Introduction to the Field</a>
       <ul>
-        <li><a href="#what-is-eeg">What is Electroencephalography(EEG)?</a></li>
-        <li><a href="#how-is-ai-applied">How is AI applied to EEG?</a></li>
+        <li><a href="#what-is-electroencephalographyeeg">What is Electroencephalography(EEG)?</a></li>
+        <li><a href="#how-is-ai-applied-to-eeg">How is AI applied to EEG?</a></li>
       </ul>
     </li>
-    <li><a href="#list">List of Artificial Intelligence Applications in Electroencephalography</a></li>
+    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalographylist">List of Artificial Intelligence Applications in Electroencephalography</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -109,7 +109,10 @@ To be filled
           - They are discrete elements of a dimension because they provide largely independent information.
           - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
 
-### How is AI applied to EEG?        
+### How is AI applied to EEG?      
+```
+To be filled
+```
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
