@@ -530,15 +530,6 @@ To be filled
 
 ### Education and Sports
 
-<details>
-  <summary></summary>
-  
-  ```
-  To be Filled
-  ```
-
-</details>
-
 
 <details>
   <summary>Personalized Learning</summary>
