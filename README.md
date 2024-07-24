@@ -1,10 +1,11 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][https://github.com/Avir-AI/EEG_Applications_Hub/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/Avir-AI/EEG_Applications_Hub/network/members]
-[![Stargazers][stars-shield]][https://github.com/Avir-AI/EEG_Applications_Hub/stargazers]
-[![Issues][issues-shield]][https://github.com/Avir-AI/EEG_Applications_Hub/issues]
-[![MIT License][license-shield]][https://github.com/Avir-AI/EEG_Applications_Hub/blob/main/LICENSE]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
