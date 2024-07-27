@@ -20,7 +20,7 @@
   <p align="center">
     A Comprehensive List of Artificial Intelligence Applications in Electroencephalography
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Avir-AI"><strong>Explore other projects »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -81,10 +81,12 @@ This part serves as a comprehensive introduction to the interdiciplinary field o
 
 ### What is Electroencephalography(EEG)?
 
-```
-To be filled
-```
-
+Electroencephalography (EEG) is a non-invasive technique used to measure electrical activity in the brain. This method involves placing electrodes on the scalp, which detect tiny electrical signals produced by neurons firing in the brain. These signals are recorded as waveforms, which can be analyzed to understand brain function.
+Neurons communicate through electrical impulses, and the collective activity of neurons generates electric fields that can be detected on the scalp.
+EEG measures these electric fields, typically in the range of microvolts (µV).
+The recorded signals are displayed as a series of waveforms, representing different frequencies and amplitudes of brain activity.
+<img src="images/EEG.jpg" width="500" height="500">
+Image by DC Studio on Freepik
 #### Why is EEG Data so Compelling?
 1. EEG captures cognitive dynamics in the time frame in which cognition occurs.
     1. Cognitive, perceptual, linguistic, emotional, and motor processes are fast and most of them occur within tens to hundreds of milliseconds. 
@@ -110,9 +112,15 @@ To be filled
           - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
 
 ### How is AI applied to EEG?      
-```
-To be filled
-```
+Neurological Disorder Diagnosis and Monitoring
+Medical procedures or interventions
+Cognitive and Performance Assessment
+Assistive Technologies and Rehabilitation
+Neuroscientific Research
+Education and Sports
+Consumer Applications
+Marketing and Consumer Behavior
+Military and Security
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
