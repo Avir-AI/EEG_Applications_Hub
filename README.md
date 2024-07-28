@@ -87,7 +87,7 @@ EEG measures these electric fields, typically in the range of microvolts (µV).
 The recorded signals are displayed as a series of waveforms, representing different frequencies and amplitudes of brain activity.
 <img src="images/EEG.jpg" width="500" height="500">
 Image by DC Studio on Freepik
-#### Why is EEG Data so Compelling?
+### Why is EEG Data so Compelling?
 1. EEG captures cognitive dynamics in the time frame in which cognition occurs.
     1. Cognitive, perceptual, linguistic, emotional, and motor processes are fast and most of them occur within tens to hundreds of milliseconds. 
     2. Furthermore, cognitive events occur in a temporal sequence that may span hundreds of milliseconds to a few seconds. This means EEG which is a high temporal-resolution technique is well suited to capture these fast, dynamic, and temporally sequenced cognitive events.
@@ -111,16 +111,17 @@ Image by DC Studio on Freepik
           - They are discrete elements of a dimension because they provide largely independent information.
           - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
 
-### How is AI applied to EEG?      
-Neurological Disorder Diagnosis and Monitoring
-Medical procedures or interventions
-Cognitive and Performance Assessment
-Assistive Technologies and Rehabilitation
-Neuroscientific Research
-Education and Sports
-Consumer Applications
-Marketing and Consumer Behavior
-Military and Security
+### Applications of EEG-AI in Various Fields:    
+Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
+1. Neurological Disorder Diagnosis and Monitoring: Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
+2. Medical Procedures and Interventions: Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
+3. Cognitive and Performance Assessment: Evaluating cognitive functions and mental workload in educational, professional, and clinical settings.
+4. Assistive Technologies and Rehabilitation: Developing devices and therapies for individuals with disabilities, including communication aids and mobility support.
+5. Neuroscientific Research: Studying brain function and neural mechanisms underlying various behaviors and cognitive processes.
+6. Education and Sports: Enhancing learning experiences and athletic performance through brain-computer interfaces and neurofeedback.
+7. Consumer Applications: Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
+8. Marketing and Consumer Behavior: Analyzing consumer responses and decision-making processes to optimize advertising and product design.
+9. Military and Security: Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
@@ -128,12 +129,45 @@ Military and Security
 
 <details>
   <summary>Alzheimer’s</summary>
+  Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - Spectral Power and Connectivity: Commonly used to analyze the frequency domain characteristics of EEG signals.
+  - FIR Filtering in Time Domain: A standard preprocessing method to remove noise and unwanted frequency components from EEG signals.
+  - EMD (Empirical Mode Decomposition) and Hjorth Parameters: Used for decomposing signals and extracting features, aiding in the cleaning and interpretation of EEG data.
+  - Optimal EEG Channel Selection with Wavelet Transform: Used for noise reduction and feature extraction in the time-frequency domain.
+  - Robust-PCA (Principal Component Analysis): A technique for noise reduction and feature extraction by decomposing EEG signals into principal components.
+  - Time-Dependent Power Spectrum Descriptors: Used for analyzing changes in power across different frequency bands over time.
+  - TQWT (Tunable Q-factor Wavelet Transform) for EEG Feature Extraction: Used for decomposing EEG signals and extracting features in different frequency bands.
 
-</details>
+  **Classificarion methods:**
+  - LSTM-RNN (Long Short-Term Memory Recurrent Neural Network)
+  - Network-based fuzzy learning
+  - Deep learning of resting-state EEG signals
+  - Deep Pyramid CNN (DPCNN)
+  - K-Nearest Neighbors (KNN)
+  - Random Forest (RF)
+  - Extreme Boosting Trees (EBT)
+  - Support Vector Machine (SVM)
+  - Takagi-Sugeno-Kang (TSK)
+  - Decision Trees (DT)
+  - N-TSK (Neuro-Fuzzy TSK)
+  - Convolutional Neural Networks (CNN)
+  - DeepConvNet, EEGNet
+  - AlexNet
+
+  **Sources:**
+  <li><a href="https://journals.uob.edu.bh/handle/123456789/5648">Intelligent Approaches for Alzheimer's Disease Diagnosis from EEG Signals: Systematic Review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524007066">Comparative analysis of machine learning algorithms for Alzheimer's disease classification using EEG signals and genetic information
+</a></li>
+  <li><a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad180300">EEG Theta Power Is an Early Marker of Cognitive Decline in Dementia due to Alzheimer’s Disease</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-023-32664-8">Computational methods of EEG signals analysis for Alzheimer’s disease classification</a></li>
+  <li><a href="https://journals.sagepub.com/doi/10.1177/15500594221125033?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed">What a Single Electroencephalographic (EEG) Channel Can Tell us About Alzheimer's Disease Patients With Mild Cognitive Impairment</a></li>
+  <li><a href="https://www.researchgate.net/publication/376820004_Identification_of_new_electrophysiological_biomarkers_of_Alzheimer's_disease_with_fast_periodic_visual_stimulation_and_electroencephalography">Identification of new electrophysiological biomarkers of Alzheimer’s disease with fast periodic visual stimulation and electroencephalography
+</a></li>
+  <li><a href="https://www.worldscientific.com/doi/abs/10.1142/S0129065721300023">Machine Learning Algorithms and Statistical Approaches for Alzheimer's Disease Analysis Based on Resting-State EEG Recordings: A Systematic Review.</a></li>
+
+  </details>
 
 <details>
   <summary>Parkinson's</summary>
@@ -563,7 +597,8 @@ Military and Security
   <summary>Neurofeedback Training</summary>
   
   ```
-  To be Filled
+Sharpening Working Memory With Real-Time Electrophysiological Brain Signals: Which Neurofeedback Paradigms Work?
+https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.780817/full
   ```
 
 </details>
