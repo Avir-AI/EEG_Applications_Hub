@@ -66,9 +66,9 @@ This meticulously curated list aims to showcase the latest breakthroughs in the 
 
 Each field is divided into toggle lists, providing easy access to:
 - Scientific Papers: A selection of recent research articles
-  - Preprocessing Methods
-  - Classifying Methods
-  - Results
+  - **Preprocessing Methods**
+  - **Classifying Methods**
+  - **Results**
 - Applications and Use Cases: Recent news on the real-world implementations of EEG-AI
 
 Whether you're a researcher, student, or hobbyist, this guide is designed to serve as a valuable resource for your endeavors. We hope you find it informative, inspiring, and useful in exploring the vast potential of EEG-AI applications.
@@ -113,15 +113,15 @@ Image by DC Studio on Freepik
 
 ### Applications of EEG-AI in Various Fields:    
 Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
-1. Neurological Disorder Diagnosis and Monitoring: Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
-2. Medical Procedures and Interventions: Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
-3. Cognitive and Performance Assessment: Evaluating cognitive functions and mental workload in educational, professional, and clinical settings.
-4. Assistive Technologies and Rehabilitation: Developing devices and therapies for individuals with disabilities, including communication aids and mobility support.
-5. Neuroscientific Research: Studying brain function and neural mechanisms underlying various behaviors and cognitive processes.
-6. Education and Sports: Enhancing learning experiences and athletic performance through brain-computer interfaces and neurofeedback.
-7. Consumer Applications: Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
-8. Marketing and Consumer Behavior: Analyzing consumer responses and decision-making processes to optimize advertising and product design.
-9. Military and Security: Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
+1. **Neurological Disorder Diagnosis and Monitoring:** Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
+2. **Medical Procedures and Interventions:** Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
+3. **Cognitive and Performance Assessment:** Evaluating cognitive functions and mental workload in educational, professional, and clinical settings.
+4. **Assistive Technologies and Rehabilitation:** Developing devices and therapies for individuals with disabilities, including communication aids and mobility support.
+5. **Neuroscientific Research:** Studying brain function and neural mechanisms underlying various behaviors and cognitive processes.
+6. **Education and Sports:** Enhancing learning experiences and athletic performance through brain-computer interfaces and neurofeedback.
+7. **Consumer Applications:** Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
+8. **Marketing and Consumer Behavior:** Analyzing consumer responses and decision-making processes to optimize advertising and product design.
+9. **Military and Security:** Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
@@ -172,65 +172,250 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Parkinson's</summary>
   
-  ```
-  To be Filled
-  ```
+  Parkinson’s disease (PD) is a prevalent neurodegenerative disorder affecting millions globally. It encompasses both motor and non-motor symptoms, with a notable impact on patients’ quality of life. Electroencephalogram (EEG) is a non-invasive tool that is increasingly utilized to investigate neural mechanisms in PD, identify early diagnostic markers, and assess therapeutic responses.
+  
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="Feature Extraction from EEG signals for detection of Parkinsons Disease">Detection of Parkinson’s disease from EEG signals using discrete wavelet transform, different entropy measures, and machine learning techniques</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/10173532">EEG-Based Parkinson's Disease Recognition Via Attention-based Sparse Graph Convolutional Neural Network
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S156816372400103X">Parkinson’s disease diagnosis using deep learning: A bibliometric analysis and literature review
+</a></li>
+  <li><a href="https://www.nature.com/articles/s41531-023-00602-0">Resting-state EEG measures cognitive impairment in Parkinson’s disease</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1433583/full">Bibliometric analysis of electroencephalogram research in Parkinson’s disease from 2004 to 2023</a></li>
 </details>
 
 <details>
   <summary>Schizophrenia</summary>
+  Schizophrenia (ScZ) is a chronic neuropsychiatric disorder characterized by disruptions in cognitive, perceptual, social, emotional, and behavioral functions. In the traditional approach, the diagnosis of ScZ primarily relies on the subject’s response and the psychiatrist’s experience, making it highly subjective, prejudiced, and time-consuming. In recent medical research, incorporating deep learning (DL) into the diagnostic process improves performance by reducing inter-observer variation and providing qualitative and quantitative support for clinical decisions.
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1347082/full">A systematic review of EEG based automated schizophrenia classification through machine learning and deep learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423034395">A novel approach to schizophrenia Detection: Optimized preprocessing and deep learning analysis of multichannel EEG data</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0920996424003220">Identification and diagnosis of schizophrenia based on multichannel EEG and CNN deep learning model</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10581211">Schizophrenia Detection using Electroencephalography Signals Using Deep Learning</a></li>
+  <li><a href="https://www.mdpi.com/2227-7390/12/13/1989">CALSczNet: Convolution Neural Network with Attention and LSTM for the Detection of Schizophrenia Using EEG Signals
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032723013770">Diagnostic deep learning algorithms that use resting EEG to distinguish major depressive disorder, bipolar disorder, and schizophrenia from each other and from healthy volunteers
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1746809422006875">Schizophrenia classification using machine learning on resting state EEG signal</a></li>
+
 
 </details>
 
 <details>
   <summary>ADHD</summary>
   
-  ```
-  To be Filled
-  ```
+ Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
+  
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://figshare.utas.edu.au/articles/thesis/The_classification_of_ADHD_using_machine_learning_and_EEG_data_a_systematic_review/2571179">The classification of ADHD using machine learning and EEG data : a systematic review</a></li>
+  <li><a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)02059-0#:~:text=Results%20and%20conclusions,0.8067%20f1%2Dscore).">A novel approach to identify the brain regions that best classify ADHD by means of EEG and deep learning</a></li>
+  <li><a href="https://drpress.org/ojs/index.php/HSET/article/view/20004">Detection and Classification of ADHD Using Deep Learning Based on EEG Signals</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10165395">Comparative Study of Detection of ADHD using EEG Signals</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-40688-1_8">Machine and Deep Learning Algorithms for ADHD Detection: A Review</a></li>
 
 </details>
 
 
 <details>
   <summary>Bipolar and Borderline personality disorder</summary>
+
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032723013770">Diagnostic deep learning algorithms that use resting EEG to distinguish major depressive disorder, bipolar disorder, and schizophrenia from each other and from healthy volunteers</a></li>
+  <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303699">A machine learning approach for differentiating bipolar disorder type II and borderline personality disorder using electroencephalography and cognitive abnormalities
+</a></li>
+
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245722009518">Discriminating between bipolar and major depressive disorder using a machine learning approach and resting-state EEG data
+</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/15500594221137234">The Deep Learning Method Differentiates Patients with Bipolar Disorder from Controls with High Accuracy Using EEG Data
+</a></li>
+
 
 </details>
 
 <details>
   <summary>Depression</summary>
   
-  ```
-  To be Filled
-  ```
+   **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2001037024000758#tbl0020">Depression assessment using integrated multi-featured EEG bands deep neural network models: Leveraging ensemble learning techniques</a></li>
+  <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299127">A machine learning based depression screening framework using temporal domain features of the electroencephalography signals</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S000632232301569X">Evaluating Robustness of Brain Stimulation Biomarkers for Depression: A Systematic Review of Magnetic Resonance Imaging and Electroencephalography Studies</a></li>
+  <li><a href="https://www.mdpi.com/2075-4418/13/10/1779">Electroencephalography-Based Depression Detection Using Multiple Machine Learning Techniques</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1219133/full">Generation of synthetic EEG data for training algorithms supporting the diagnosis of major depressive disorder</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/20/8639">Depressive Disorder Recognition Based on Frontal EEG Signals and Deep Learning</a></li>
 
 </details>
 
 
 <details>
-  <summary>Anxiety(Less work has been done)</summary>
+  <summary>Anxiety</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://peerj.com/articles/cs-1829/">A comprehensive exploration of machine learning techniques for EEG-based anxiety detection</a></li>
+  <li><a href="https://iopscience.iop.org/book/edit/978-0-7503-5182-9/chapter/bk978-0-7503-5182-9ch1">Anxiety recognition using a new EEG signal analysis approach based on sample density in a Chebyshev chaotic</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-5232-8_17">Electroencephalography Based Machine Learning Framework for Anxiety Classification</a></li>
 
 </details>
 
 <details>
   <summary>Autism Spectrum Disorder(No Reliable Method)</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524001598">Identification of autism spectrum disorder based on electroencephalography: A systematic review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S027858462200197X">Machine learning approaches for electroencephalography and magnetoencephalography analyses in autism spectrum disorder: A systematic review</a></li>
+  <li><a href="https://www.tandfonline.com/doi/full/10.2147/NDT.S394363#abstract">Systematic Review on EEG Analysis to Diagnose and Treat Autism by Evaluating Functional Connectivity and Spectral Power
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423005074">Classification of low-functioning and high-functioning autism using task-based EEG signals
+</a></li>
+  <li><a href="https://www.bio-conferences.org/articles/bioconf/abs/2024/30/bioconf_icbb2024_03010/bioconf_icbb2024_03010.html">The Role of Electroencephalography (EEG) in the Diagnosis and Subtyping of Autism Spectrum Disorder: A Review
+</a></li>
 
 </details>
 
@@ -238,9 +423,36 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Dementia</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923002008">Deep learning-based EEG analysis to classify normal, mild cognitive impairment, and dementia: Algorithms and dataset
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10544436">Review on EEG-based Dementia Staging using Machine Learning
+</a></li>
+  <li><a href="https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12948">Interpretable machine learning for dementia: A systematic review</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10916-023-01906-7">Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions
+</a></li>
+  <li><a href="https://www.nature.com/articles/s43856-024-00437-7#:~:text=Parsimonious%20machine%2Dlearning%20models%20can,to%20heterogeneous%20dementia%20patient%20populations.">Machine learning models identify predictive features of patient mortality across dementia types</a></li>
 
 </details>
 
@@ -248,9 +460,34 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Dyslexia</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809422010072">EEG based classification of children with learning disabilities using shallow and deep neural network</a></li>
+  <li><a href="https://www.mdpi.com/2227-9059/11/6/1607">Periodic and Aperiodic EEG Features as Potential Markers of Developmental Dyslexia</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11042-022-13939-0">A comprehensive review of machine learning approaches for dyslexia diagnosis</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11881-022-00273-1">EEG correlates of developmental dyslexia: a systematic review</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s12539-024-00634-x">Unraveling Brain Synchronisation Dynamics by Explainable Neural Networks using EEG Signals: Application to Dyslexia Diagnosis
+</a></li>
 
 </details>
 
@@ -258,9 +495,36 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Epilepsy and Seizure</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https://link.springer.com/article/10.1007/s11042-023-15052-2">EEG seizure detection: concepts, techniques, challenges, and future trends</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13374">A review on software and hardware developments in automatic epilepsy diagnosis using EEG datasets</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2001037023004804">Computer-assisted analysis of routine EEG to identify hidden biomarkers of epilepsy: A systematic review</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s42979-023-01958-z">EEG datasets for seizure detection and prediction— A review
+</a></li>
+  <li><a href="https://www.mdpi.com/2075-4418/13/6/1058">Epileptic Seizure Detection Using Machine Learning: Taxonomy, Opportunities, and Challenges</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10442940">A Machine Learning Framework for Robust Epileptic Seizure Detection from EEG Sign</a></li>
+  <li><a href="https://www.degruyter.com/document/doi/10.1515/bmt-2023-0332/html">Epileptic EEG patterns recognition through machine learning techniques and relevant time–frequency features</a></li>
 
 </details>
 
@@ -268,9 +532,34 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Brain Tumor</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -278,9 +567,34 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Traumatic Brain Injury</summary>
   
-  ```
-  To be Filled
-  ```
+  **Preprocessing methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Classificarion methods:**
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+  **Sources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -599,6 +913,12 @@ Signal processing and machine learning techniques are crucial for accurately int
   ```
 Sharpening Working Memory With Real-Time Electrophysiological Brain Signals: Which Neurofeedback Paradigms Work?
 https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.780817/full
+A Systematic Review of the Effects of EEG Neurofeedback on Patients with Schizophrenia
+https://www.mdpi.com/2075-4426/14/7/763
+Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review
+https://link.springer.com/article/10.1007/s10484-022-09562-2
+Review of EEG-based neurofeedback as a therapeutic intervention to treat depression
+https://www.sciencedirect.com/science/article/pii/S092549272300001X
   ```
 
 </details>
