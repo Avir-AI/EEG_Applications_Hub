@@ -166,10 +166,10 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 ## List of Artificial Intelligence Applications in Electroencephalography
 
-### Neurological Disorder Diagnosis and Monitoring
+### 🔶 Neurological and Mental Health Disorders
 
 <details>
-  <summary>Alzheimer’s</summary>
+  <summary>Alzheimer’s Disease</summary>
   Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
 
   
@@ -187,7 +187,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   </details>
 
 <details>
-  <summary>Parkinson's</summary>
+  <summary>Parkinson's Disease</summary>
   
   Parkinson’s disease (PD) is a prevalent neurodegenerative disorder affecting millions globally. It encompasses both motor and non-motor symptoms, with a notable impact on patients’ quality of life. Electroencephalogram (EEG) is a non-invasive tool that is increasingly utilized to investigate neural mechanisms in PD, identify early diagnostic markers, and assess therapeutic responses.
 
@@ -272,7 +272,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 
 <details>
-  <summary>Anxiety</summary>
+  <summary>Anxiety Disorders</summary>
   Anxiety is a psycho-physiological phenomenon related to the mental health of a person. Persistence of anxiety for an extended period of time can manifest into anxiety disorder, which is a root cause of multiple mental health issues.
  
   
@@ -355,7 +355,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 
 <details>
-  <summary>Brain Tumor</summary>
+  <summary>Brain Tumors</summary>
   According to the International Agency for Research on Cancer (IARC), the mortality rate due to brain tumors is 76%. It is required to detect the brain tumors as early as possible and to provide the patient with the required treatment to avoid any fatal situation. Scalp EEG can be used to diagnose brain diseases mainly because the electrical activity of the cerebral cortex has a great influence on EEG. The abnormality of EEG can be understood as the abnormality of brain activity.
   
   
@@ -410,6 +410,94 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   <li><a href="https://www.mdpi.com/1424-8220/21/13/4269"> Deep Learning-Based Stroke Disease Prediction System Using Real-Time Bio Signals </a></li>
 
 </details>
+
+
+<details>
+  <summary>Suicidal Ideation</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180">Machine learning for suicidal ideation identification: A systematic literature review</a></li>
+  <li><a href="https://www.nature.com/articles/s44277-024-00012-x">Neural activity during inhibitory control predicts suicidal ideation with machine learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0278584624000332">Differentiation between suicide attempt and suicidal ideation in patients with major depressive disorder using cortical functional network</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11571-022-09904-0">Artificial intelligence assisted tools for the detection of anxiety and depression leading to suicidal ideation in adolescents: a review</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/1550059421991685">Differences of EEG Frequency and Spatial Parameters in Depressive Female Adolescents With Suicidal Attempts and Non-suicidal Self-injuries</a></li>
+  
+</details>
+
+
+<details>
+  <summary>Addiction</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.995534/full">A scoping review of electroencephalographic (EEG) markers for tracking neurophysiological changes and predicting outcomes in substance use disorder treatment
+</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/15500594221076347">Resting-state EEG, Substance use and Abstinence After Chronic use: A Systematic Review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482520303024">Profiling of pornography addiction among children using EEG signals: A systematic literature review☆</a></li>
+  <li><a href="https://avesis.bozok.edu.tr/yayin/d6a6f040-517e-4b5a-a32f-010171bc5089/eeg-based-cigarette-addiction-detection-with-deep-learning"> EEG Based Cigarette Addiction Detection with Deep Learning </a></li>
+  <li><a href="http://www.prof-buettner.de/downloads/gross2020a.pdf">A Novel Machine Learning Approach for High-Performance Diagnosis of Premature Internet Addiction Using the Unfolded EEG Spectra</a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00676/full">Neuropsychophysiological Measures of Alcohol Dependence: Can We Use EEG in the Clinical Assessment?
+</a></li>
+
+</details>
+
+### 🔶 Medical Procedures and Treatments
+
+
+<details>
+  <summary>Anesthesia</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9385837">A Combinatorial Deep Learning Structure for Precise Depth of Anesthesia Estimation From EEG Signals</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10877-023-01088-0">Artificial intelligence and its clinical application in Anesthesiology: a systematic review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0933365724001118">Harnessing machine learning for EEG signal analysis: Innovations in depth of anaesthesia assessment</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2095809921005269">Progress of Brain Network Studies on Anesthesia and Consciousness: Framework and Clinical Applications</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9755157">Inference of Brain States Under Anesthesia With Meta Learning Based Deep Learning Models</a></li>
+  <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246165">Machine learning of EEG spectra classifies unconsciousness during GABAergic anesthesia</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9360837">An EEG-Based Hypnotic State Monitor for Patients During General Anesthesia</a></li>
+  
+
+</details>
+
+
+<details>
+  <summary>Drug development and Pharmacology</summary>
+  The analysis of electroencephalogram (EEG) signals has become a pivotal tool in drug development and pharmacology, providing valuable insights into neural responses and cognitive effects induced by pharmacological interventions. This method has significantly contributed to the understanding of drug mechanisms and their impact on the brain. As the field advances, numerous drugs are being developed to address various neurological and psychiatric conditions, and research papers focusing on these diseases are readily available for further exploration based on specific areas of interest.
+
+<details>
+  <summary>Neurostimulation</summary>
+  Electroencephalogram (EEG) signal analysis, empowered by machine learning (ML) and deep learning (DL) techniques, has shown transformative potential in the optimization of neurostimulation therapies. 
+  
+  **Useful Resources:**
+  <li><a href="https://www.nature.com/articles/s41746-023-00779-x">Landscape and future directions of machine learning applications in closed-loop brain stimulation</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9540268">Closed-Loop Neural Prostheses With On-Chip Intelligence: A Review and a Low-Latency Machine Learning Model for Brain State Detection</a></li>
+  <li><a href="https://www.mdpi.com/2227-9059/10/11/2677"> Responsive Neurostimulation for Seizure Control: Current Status and Future Directions </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0014488622000188">Machine learning based brain signal decoding for intelligent adaptive deep brain stimulation</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1388245721000602">Machine learning for automated EEG-based biomarkers of cognitive impairment during Deep Brain Stimulation screening in patients with Parkinson’s Disease</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00415-023-11873-1">Machine learning for adaptive deep brain stimulation in Parkinson’s disease: closing the loop</a></li>
+
+</details>
+
+
+<details>
+  <summary>Pain assessment</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1526590021003151">Systematic Review of the Effectiveness of Machine Learning Algorithms for Classifying Pain Intensity, Phenotype or Treatment Outcomes Using Electroencephalogram Data</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1186418/full">In search of a composite biomarker for chronic pain by way of EEG and machine learning: where do we currently stand?
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/B9780128186626000194">EEG biomarkers of pain and applications of machine learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811922004700">Resting-state electroencephalography (EEG) biomarkers of chronic neuropathic pain. A systematic review</a></li>
+  <li><a href="https://journals.lww.com/pain/fulltext/2023/06000/resting_state_electroencephalography_and.3.aspx">Resting-state electroencephalography and magnetoencephalography as biomarkers of chronic pain: a systematic review</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/09544119221122012">Role of Artificial Intelligence and Machine Learning in the prediction of the pain: A scoping systematic review</a></li>
+
+</details>
+
+### 🔶 Diagnostic and Monitoring Technologies
+
 
 <details>
   <summary>Brain Age Prediction</summary>
@@ -474,137 +562,16 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 
 <details>
-  <summary>Suicidal Ideation</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180">Machine learning for suicidal ideation identification: A systematic literature review</a></li>
-  <li><a href="https://www.nature.com/articles/s44277-024-00012-x">Neural activity during inhibitory control predicts suicidal ideation with machine learning</a></li>
-  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0278584624000332">Differentiation between suicide attempt and suicidal ideation in patients with major depressive disorder using cortical functional network</a></li>
-  <li><a href="https://link.springer.com/article/10.1007/s11571-022-09904-0">Artificial intelligence assisted tools for the detection of anxiety and depression leading to suicidal ideation in adolescents: a review</a></li>
-  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/1550059421991685">Differences of EEG Frequency and Spatial Parameters in Depressive Female Adolescents With Suicidal Attempts and Non-suicidal Self-injuries</a></li>
-  
-</details>
-
-
-<details>
-  <summary>Addiction</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-### Medical procedures or interventions
-
-</details>
-
-<details>
-  <summary>Anesthesia</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-
-<details>
-  <summary>Drug development and Pharmacology</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-</details>
-
-<details>
-  <summary>Neurostimulation</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-
-<details>
-  <summary>Pain assessment</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-
-<details>
-  <summary>Communication for locked-in patients</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-
-<details>
-  <summary>Amblyopia</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-### Cognitive and Performance Assessment
-
-<details>
   <summary>Cognitive Load</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9551143">Deep Learning Architectures Used In Eeg-Based Estimation Of Cognitive workload: A Review</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/20/8528"> Characterisation of Cognitive Load Using Machine Learning Classifiers of Electroencephalogram Data </a></li>
+  <li><a href="https://www.mdpi.com/2306-5354/10/3/361"> Prediction of Cognitive Load from Electroencephalography Signals Using Long Short-Term Memory Network </a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9458953">Cognitive Workload Recognition Using EEG Signals and Machine Learning: A Review</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10263778">Deep Learning Framework for Modeling Cognitive Load From Small and Noisy EEG Data</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10416860">A Comprehensive Survey of EEG Preprocessing Methods for Cognitive Load Assessment</a></li>
 
 </details>
 
@@ -614,12 +581,12 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809421008466">Analysis of working memory from EEG signals under different emotional states</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/psyp.13735">Oscillatory brain activity and maintenance of verbal and visual working memory: A systematic review</a></li>
+  <li><a href="https://www.researchgate.net/profile/Ricardo-Buettner/publication/358104193_A_Novel_Machine_Learning_Approach_to_Working_Memory_Evaluation_Using_Resting-State_EEG_Data/links/61f011dac5e3103375bd75e4/A-Novel-Machine-Learning-Approach-to-Working-Memory-Evaluation-Using-Resting-State-EEG-Data.pdf">A Novel Machine Learning Approach to Working Memory Evaluation Using Resting-State EEG Data</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac8b38/meta">Decoding working memory-related information from repeated psychophysiological EEG experiments using convolutional and contrastive neural networks</a></li>
+  <li><a href="https://direct.mit.edu/jocn/article-abstract/34/4/551/108895/How-Working-Memory-and-Reinforcement-Learning-Are"> How Working Memory and Reinforcement Learning Are Intertwined: A Cognitive, Neural, and Computational Perspective </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2095263521000972">The impact of the design of learning spaces on attention and memory from a neuroarchitectural approach: A systematic review</a></li>
 
 </details>
 
@@ -627,45 +594,51 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 </details>
 
 <details>
-  <summary>Memory function</summary>
+  <summary>Memory Function</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003145004-11/performance-evaluation-machine-learning-classifiers-memory-assessment-using-eeg-signal-shipra-swati-mukesh-kumar"> Performance Evaluation of Machine Learning Classifiers for Memory Assessment Using EEG Signal </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027024001651">Decoding EEG for optimizing naturalistic memory</a></li>
+  <li><a href="https://www.science.org/doi/full/10.1126/science.abi8370">Brain neural patterns and the memory function of sleep</a></li>
+  <li><a href="https://academic.oup.com/brain/article/146/6/2214/6835141"> Direct electrical brain stimulation of human memory: lessons learnt and future perspectives </a></li>
+  <li><a href="https://arxiv.org/abs/2307.13181">Neural Memory Decoding with EEG Data and Representation Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168010222003030">Sleep, learning, and memory in human research using noninvasive neuroimaging techniques</a></li>
 
 </details>
 
 
 <details>
-  <summary>Attention and Vigilance</summary>
+  <summary>Attention</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-022-24417-w">Decoding the cognitive states of attention and distraction in a real-life setting using EEG</a></li>
+  <li><a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.727840/full">Attention Detection in Virtual Environments Using EEG Signals: A Scoping Review
+</a></li>
+  <li><a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2021.661178/full">EEG-Based Auditory Attention Detection and Its Possible Future Applications for Passive BCI
+</a></li>
+  <li><a href="https://www.mdpi.com/2079-9292/11/5/770"> Physical Exercise Effects on University Students’ Attention: An EEG Analysis Approach </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1744388121000281">EEG based interpretation of human brain activity during yoga and meditation using machine learning: A systematic review</a></li>
+  
 
 </details>
 
 <details>
-  <summary>Lie Detection</summary>
+  <summary>Vigilance</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876022002720">Vigilance described by the time-on-task effect in EEG activity during a cued Go/NoGo task</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494622003143">Driver vigilance detection for high-speed rail using fusion of multiple physiological signals and deep learning</a></li>
+  <li><a href="https://essopenarchive.org/doi/full/10.22541/au.171052497.72177186">EEG Band Patterns for Top-Down vs Bottom-Up Control During the Psychomotor Vigilance Task: A Meta-Analysis</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/21/16/5617"> Generalized Deep Learning EEG Models for Cross-Participant and Cross-Task Detection of the Vigilance Decrement in Sustained Attention Tasks </a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.874757/full">Revisiting the Concept of Vigilance</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9335936">Cognitive Vigilance Enhancement Using Audio Stimulation of Pure Tone at 250 Hz</a></li>
+  li><a href="https">Estimating the Vigilance of High-Speed Rail Drivers Using a Stacking Ensemble Learning Method</a></li>
+  li><a href="https://ieeexplore.ieee.org/abstract/document/9420749">techniques</a></li>
+  li><a href="https://ieeexplore.ieee.org/abstract/document/10122849">Driver Vigilance Detection Based on Limited EEG Signals</a></li>
+  li><a href="https://link.springer.com/referenceworkentry/10.1007/978-981-15-2848-4_75-1">Vigilance Assessment and Enhancement</a></li>
 
 </details>
 
@@ -675,12 +648,15 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10185973">Application of Artificial Intelligence Techniques for Brain–Computer Interface in Mental Fatigue Detection: A Systematic Review (2011–2022)</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580523001474">Identifying mental fatigue of construction workers using EEG and deep learning</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00521-023-08491-3">A new hand-modeled learning framework for driving fatigue detection using EEG signals</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034623001064">Deep learning-based construction equipment operators’ mental fatigue classification using wearable EEG sensor data</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231223008329">EEG-based neural networks approaches for fatigue and drowsiness detection: A survey</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11042-023-15054-0">Machine learning and deep learning techniques for driver fatigue and drowsiness detection: a review</a></li>
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1248474/full">Fatigue factors and fatigue indices in SSVEP-based brain-computer interfaces: a systematic review and meta-analysis
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2590005623000450">Multiple robust approaches for EEG-based driving fatigue detection and classification</a></li>
 
 </details>
 
@@ -690,46 +666,15 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://physionet.org/content/eeg-eye-gaze-for-fls-tasks/1.0.0/EYE_FLS/">Integration of Electroencephalogram and Eye-Gaze Datasets for Performance Evaluation in Fundamentals of Laparoscopic Surgery (FLS) Tasks</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-024-65648-3">Prediction of Robotic Anastomosis Competency Evaluation (RACE) metrics during vesico-urethral anastomosis using electroencephalography, eye-tracking, and machine learning</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1361-6579/acd51b/meta">State-of-the-art mental tasks classification based on electroencephalograms: a review</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/acbfe0/meta">Confused or not: decoding brain activity and recognizing confusion in reasoning learning using EEG</a></li>
+  <li><a href="https://www.imrpress.com/journal/JIN/22/3/10.31083/j.jin2203062/htm?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_Integrative_Neuroscience_TrendMD_1">Electroencephalography (EEG) Physiological Indices Reflecting Human Physical Performance: A Systematic Review Using Updated PRISMA</a></li>
 
 </details>
 
-
-<details>
-  <summary>Senses</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-
-<details>
-  <summary>Neuroergonomics</summary>
-  
-  
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
-</details>
-
-### Assistive Technologies and Rehabilitation
+### 🔶 Assistive Technologies and Rehabilitation
 
 <details>
   <summary>Brain-Computer Interfaces (BCIs)</summary>
@@ -776,7 +721,56 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 </details>
 
-### Neuroscientific Research
+
+
+### 🔶 Cognitive and Performance Evaluation
+
+<details>
+  <summary>Lie Detection</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-3177-4_7">Comprehensive Review of Lie Detection in Subject Based Deceit Identification</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10017818">EEG-based lie detection using ERP P300 in response to known and unknown faces: An overview</a></li>
+  <li><a href="https://dl.acm.org/doi/abs/10.1145/3458791">An Efficient Deep Learning Paradigm for Deceit Identification Test on EEG Signals</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9773469">EEG Guided Multimodal Lie Detection with Audio-Visual Cues</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-97-0641-9_12">Supervised Learning Approaches for Deceit Identification: Exploring EEG as a Non-invasive Technique</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11042-023-16847-z">LSTMNCP: lie detection from EEG signals with novel hybrid deep learning method</a></li>
+
+</details>
+
+
+<details>
+  <summary>Sensory Neuroscience</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
+
+</details>
+
+
+<details>
+  <summary>Neuroergonomics</summary>
+  
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
+
+</details>
+
+
+### 🔶 Neuroscientific Research
 
 <details>
   <summary>Functional Connectivity</summary>
@@ -806,7 +800,7 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 </details>
 
-### Education and Sports
+### 🔶 Education and Sports
 
 
 <details>
@@ -862,7 +856,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 </details>
 
-### Consumer Applications
+### 🔶 Consumer and Lifestyle Technologies
 
 <details>
   <summary>Emotional State Analysis</summary>
@@ -919,7 +913,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 </details>
 
-### Marketing and Consumer Behavior
+### 🔶 Marketing and User Experience
 
 <details>
   <summary>Human-Computer Interaction (HCI)</summary>
@@ -972,7 +966,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 </details>
 
-### Military and Security
+### 🔶 Military and Security
 
 <details>
   <summary>Biometric Authentication</summary>
@@ -982,9 +976,6 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
   ```
 
 </details>
-
-
-
 
 
 
