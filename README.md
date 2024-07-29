@@ -23,11 +23,6 @@
     <a href="https://github.com/Avir-AI"><strong>Explore other projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -63,13 +58,6 @@
 ## About The Project
 
 This meticulously curated list aims to showcase the latest breakthroughs in the fusion of Electroencephalography (EEG) and Artificial Intelligence (AI). By consolidating related fields and subfields, we've created a user-friendly framework that allows you to quickly explore them.
-
-Each field is divided into toggle lists, providing easy access to:
-- Scientific Papers: A selection of recent research articles
-  - **Preprocessing Methods**
-  - **Classifying Methods**
-  - **Results**
-- Applications and Use Cases: Recent news on the real-world implementations of EEG-AI
 
 Whether you're a researcher, student, or hobbyist, this guide is designed to serve as a valuable resource for your endeavors. We hope you find it informative, inspiring, and useful in exploring the vast potential of EEG-AI applications.
 
@@ -111,7 +99,7 @@ Image by DC Studio on Freepik
           - They are discrete elements of a dimension because they provide largely independent information.
           - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
 
-### Applications of EEG-AI in Various Fields:    
+### What Are the Applications of EEG-AI in Various Fields?   
 Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
 1. **Neurological Disorder Diagnosis and Monitoring:** Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
 2. **Medical Procedures and Interventions:** Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
@@ -123,6 +111,55 @@ Signal processing and machine learning techniques are crucial for accurately int
 8. **Marketing and Consumer Behavior:** Analyzing consumer responses and decision-making processes to optimize advertising and product design.
 9. **Military and Security:** Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
 
+### What Are the Common Preprocessing Methods?
+- Filtering (FIR & IIR): Fundamental for removing noise and isolating frequency bands.
+- Feature Extraction: Central to converting raw EEG data into meaningful features for classification.
+- Independent Component Analysis (ICA): Widely used for artifact removal and source separation.
+- Wavelet Transformation: Frequently used for time-frequency analysis of EEG signals.
+- Spectral Power: Commonly used to analyze the power distribution across frequency bands.
+- Spatial Filtering: Important for enhancing signal quality by focusing on relevant spatial components.
+- Entropy Methods: Increasingly popular for assessing complexity and variability in EEG signals.
+- Functional Connectivity: Gaining importance for studying interactions between different brain regions.
+- Topological Network Analysis: Used for understanding brain network properties, but less common.
+- Average Filtering: Basic noise reduction technique, but less sophisticated than others.
+- Synchronization Likelihood Features: Specialized for connectivity analysis, but not as commonly used.
+- Biomarkers Based Features: Emerging field focusing on disease-specific features, gaining traction.
+- RVMD (Robust Variational Mode Decomposition): Advanced signal decomposition technique, less widespread.
+- Network Based Fuzzy Learning: Specialized method, not widely adopted.
+- SLBP (Symmetrically Weighted Local Binary Patterns): Niche method for texture-like feature extraction, less common.
+
+### What Are the Common Cross Validation Methods?
+- 5-fold Cross Validation
+- 10-fold Cross Validation
+- LOSO: Leave One Subject Out
+- LOTO: Leave One Trial Out
+
+### What Are the Common Classifiers?
+**Machine Learning**
+- SVM - Support Vector Machine
+- KNN - K-Nearest Neighbors
+- DT - Decision Tree
+- RF - Random Forest
+- Logit Boost - LogitBoost (a boosting algorithm for binary classification)
+- ELM - Extreme Learning Machine
+- LDA - Linear Discriminant Analysis
+- N-TSK - Neuro-Fuzzy Takagi-Sugeno-Kang
+
+**Deep Learning:**
+- CNN - Convolutional Neural Network
+- Deep ConvNet - Deep Convolutional Network
+- DP CNN - DeepPyramid Convolutional Neural Network 
+- LSTM RNN - Long Short-Term Memory Recurrent Neural Network
+- SNN - Spiking Neural Network / Siamese Neural Network
+- MLP - Multilayer Perceptron
+- GRU - Gated Recurrent Unit
+- Conv-AE - Convolutional Autoencoder
+- EEGNet - A specific Convolutional Neural Network architecture designed for EEG signal classification
+- AlexNet - A deep Convolutional Neural Network architecture named after Alex Krizhevsky
+- ViT - Vision Transformer
+- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers
+
+
 ## List of Artificial Intelligence Applications in Electroencephalography
 
 ### Neurological Disorder Diagnosis and Monitoring
@@ -131,32 +168,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   <summary>Alzheimer’s</summary>
   Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
   
-  **Preprocessing methods:**
-  - Spectral Power and Connectivity: Commonly used to analyze the frequency domain characteristics of EEG signals.
-  - FIR Filtering in Time Domain: A standard preprocessing method to remove noise and unwanted frequency components from EEG signals.
-  - EMD (Empirical Mode Decomposition) and Hjorth Parameters: Used for decomposing signals and extracting features, aiding in the cleaning and interpretation of EEG data.
-  - Optimal EEG Channel Selection with Wavelet Transform: Used for noise reduction and feature extraction in the time-frequency domain.
-  - Robust-PCA (Principal Component Analysis): A technique for noise reduction and feature extraction by decomposing EEG signals into principal components.
-  - Time-Dependent Power Spectrum Descriptors: Used for analyzing changes in power across different frequency bands over time.
-  - TQWT (Tunable Q-factor Wavelet Transform) for EEG Feature Extraction: Used for decomposing EEG signals and extracting features in different frequency bands.
-
-  **Classificarion methods:**
-  - LSTM-RNN (Long Short-Term Memory Recurrent Neural Network)
-  - Network-based fuzzy learning
-  - Deep learning of resting-state EEG signals
-  - Deep Pyramid CNN (DPCNN)
-  - K-Nearest Neighbors (KNN)
-  - Random Forest (RF)
-  - Extreme Boosting Trees (EBT)
-  - Support Vector Machine (SVM)
-  - Takagi-Sugeno-Kang (TSK)
-  - Decision Trees (DT)
-  - N-TSK (Neuro-Fuzzy TSK)
-  - Convolutional Neural Networks (CNN)
-  - DeepConvNet, EEGNet
-  - AlexNet
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://journals.uob.edu.bh/handle/123456789/5648">Intelligent Approaches for Alzheimer's Disease Diagnosis from EEG Signals: Systematic Review</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524007066">Comparative analysis of machine learning algorithms for Alzheimer's disease classification using EEG signals and genetic information
 </a></li>
@@ -174,27 +186,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   Parkinson’s disease (PD) is a prevalent neurodegenerative disorder affecting millions globally. It encompasses both motor and non-motor symptoms, with a notable impact on patients’ quality of life. Electroencephalogram (EEG) is a non-invasive tool that is increasingly utilized to investigate neural mechanisms in PD, identify early diagnostic markers, and assess therapeutic responses.
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="Feature Extraction from EEG signals for detection of Parkinsons Disease">Detection of Parkinson’s disease from EEG signals using discrete wavelet transform, different entropy measures, and machine learning techniques</a></li>
   <li><a href="https://ieeexplore.ieee.org/document/10173532">EEG-Based Parkinson's Disease Recognition Via Attention-based Sparse Graph Convolutional Neural Network
 </a></li>
@@ -208,28 +200,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   <summary>Schizophrenia</summary>
   Schizophrenia (ScZ) is a chronic neuropsychiatric disorder characterized by disruptions in cognitive, perceptual, social, emotional, and behavioral functions. In the traditional approach, the diagnosis of ScZ primarily relies on the subject’s response and the psychiatrist’s experience, making it highly subjective, prejudiced, and time-consuming. In recent medical research, incorporating deep learning (DL) into the diagnostic process improves performance by reducing inter-observer variation and providing qualitative and quantitative support for clinical decisions.
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1347082/full">A systematic review of EEG based automated schizophrenia classification through machine learning and deep learning</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423034395">A novel approach to schizophrenia Detection: Optimized preprocessing and deep learning analysis of multichannel EEG data</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0920996424003220">Identification and diagnosis of schizophrenia based on multichannel EEG and CNN deep learning model</a></li>
@@ -245,33 +216,11 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>ADHD</summary>
+ Attention-Deficit Hyperactivity Disorder (ADHD) is one of the most widespread neurodevelopmental disorders diagnosed in childhood. ADHD is diagnosed by following the guidelines of Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). According to DSM-5, ADHD has not yet identified a specific cause, and thus researchers continue to investigate this field.
   
- Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
-  
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
-  <li><a href="https://figshare.utas.edu.au/articles/thesis/The_classification_of_ADHD_using_machine_learning_and_EEG_data_a_systematic_review/2571179">The classification of ADHD using machine learning and EEG data : a systematic review</a></li>
+  **Useful Resources:**
   <li><a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)02059-0#:~:text=Results%20and%20conclusions,0.8067%20f1%2Dscore).">A novel approach to identify the brain regions that best classify ADHD by means of EEG and deep learning</a></li>
+  <li><a href="https://figshare.utas.edu.au/articles/thesis/The_classification_of_ADHD_using_machine_learning_and_EEG_data_a_systematic_review/25711794">The classification of ADHD using machine learning and EEG data : a systematic review</a></li>
   <li><a href="https://drpress.org/ojs/index.php/HSET/article/view/20004">Detection and Classification of ADHD Using Deep Learning Based on EEG Signals</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10165395">Comparative Study of Detection of ADHD using EEG Signals</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-40688-1_8">Machine and Deep Learning Algorithms for ADHD Detection: A Review</a></li>
@@ -281,30 +230,9 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Bipolar and Borderline personality disorder</summary>
-
+  Bipolar disorder (BD) is a mental disorder characterized by depressive and manic or hypomanic episodes. The complexity in the diagnosis of Bipolar disorder (BD) due to its overlapping symptoms with other mood disorders prompted researchers and clinicians to seek new and advanced techniques for the precise detection of Bipolar disorder (BD). One of these methods is the use of advanced machine learning algorithms such as deep learning (DL).
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032723013770">Diagnostic deep learning algorithms that use resting EEG to distinguish major depressive disorder, bipolar disorder, and schizophrenia from each other and from healthy volunteers</a></li>
   <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303699">A machine learning approach for differentiating bipolar disorder type II and borderline personality disorder using electroencephalography and cognitive abnormalities
 </a></li>
@@ -319,29 +247,9 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Depression</summary>
+  Mental Status Assessment (MSA) holds significant importance in psychiatry. In recent years, several studies have leveraged Electroencephalogram (EEG) technology to gauge an individual's mental state or level of depression.
   
-   **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2001037024000758#tbl0020">Depression assessment using integrated multi-featured EEG bands deep neural network models: Leveraging ensemble learning techniques</a></li>
   <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299127">A machine learning based depression screening framework using temporal domain features of the electroencephalography signals</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S000632232301569X">Evaluating Robustness of Brain Stimulation Biomarkers for Depression: A Systematic Review of Magnetic Resonance Imaging and Electroencephalography Studies</a></li>
@@ -354,29 +262,9 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Anxiety</summary>
+  Anxiety is a psycho-physiological phenomenon related to the mental health of a person. Persistence of anxiety for an extended period of time can manifest into anxiety disorder, which is a root cause of multiple mental health issues. 
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://peerj.com/articles/cs-1829/">A comprehensive exploration of machine learning techniques for EEG-based anxiety detection</a></li>
   <li><a href="https://iopscience.iop.org/book/edit/978-0-7503-5182-9/chapter/bk978-0-7503-5182-9ch1">Anxiety recognition using a new EEG signal analysis approach based on sample density in a Chebyshev chaotic</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-5232-8_17">Electroencephalography Based Machine Learning Framework for Anxiety Classification</a></li>
@@ -386,28 +274,9 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Autism Spectrum Disorder(No Reliable Method)</summary>
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by difficulties in social communication and repetitive and stereotyped behaviors. According to the World Health Organization, about 1 in 100 children worldwide has autism. With the global prevalence of ASD, timely and accurate diagnosis has been essential in enhancing the intervention effectiveness for ASD children. Traditional ASD diagnostic methods rely on clinical observations and behavioral assessment, with the disadvantages of time-consuming and lack of objective biological indicators. Therefore, automated diagnostic methods based on machine learning and deep learning technologies have emerged and become significant since they can achieve more objective, efficient, and accurate ASD diagnosis. 
 
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524001598">Identification of autism spectrum disorder based on electroencephalography: A systematic review</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S027858462200197X">Machine learning approaches for electroencephalography and magnetoencephalography analyses in autism spectrum disorder: A systematic review</a></li>
   <li><a href="https://www.tandfonline.com/doi/full/10.2147/NDT.S394363#abstract">Systematic Review on EEG Analysis to Diagnose and Treat Autism by Evaluating Functional Connectivity and Spectral Power
@@ -422,29 +291,9 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Dementia</summary>
-  
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  Dementia has been defined as a deterioration in cognitive capacities which impairs an individual’s capacity to carry out tasks independently daily. It is critical to recognize that dementia is more accurately defined as a syndrome than as a single disease. Electroencephalogram (EEG) is a nonintrusive neural imaging approach, which tracks the brain’s electrical activities. EEG signals have shown notable alterations in dementia patients, making EEG a helpful tool for early-stage dementia recognition and diagnosis. Machine learning algorithms have shown potential in detecting patterns in EEG data that correspond to different stages of dementia. This allows the creation of a unique dementia diagnostic tool that outperforms existing approaches in terms of accuracy and cost-effectiveness. However, further research is needed to evaluate these algorithms in clinical settings. The research dives into the implementation of multiple machine-learning methods, the extraction of attributes from EEG data, and the evaluation of these algorithms’ performance.
 
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923002008">Deep learning-based EEG analysis to classify normal, mild cognitive impairment, and dementia: Algorithms and dataset
 </a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10544436">Review on EEG-based Dementia Staging using Machine Learning
@@ -458,30 +307,10 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 
 <details>
-  <summary>Dyslexia</summary>
+  <summary>Learning Disabilities</summary>
+  Developmental Dyslexia (DD) is a neurobiological condition affecting the ability to read fluently and/or accurately. Analyzing resting-state electroencephalographic (EEG) activity in DD may provide a deeper characterization of the underlying pathophysiology and possible biomarkers.
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809422010072">EEG based classification of children with learning disabilities using shallow and deep neural network</a></li>
   <li><a href="https://www.mdpi.com/2227-9059/11/6/1607">Periodic and Aperiodic EEG Features as Potential Markers of Developmental Dyslexia</a></li>
   <li><a href="https://link.springer.com/article/10.1007/s11042-022-13939-0">A comprehensive review of machine learning approaches for dyslexia diagnosis</a></li>
@@ -494,29 +323,10 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Epilepsy and Seizure</summary>
+  Epilepsy is a central nervous system disorder. In epilepsy brain activity becomes abnormal, leading to times of abnormal behavior or seizures, and at times loss of awareness. Consequently, epilepsy patients face problems in daily life due to precautions they must take to adapt to this condition, particularly when they use heavy equipment, e.g., vehicle derivation. Epilepsy studies rely primarily on electroencephalography (EEG) signals to evaluate brain activity during seizures. It is troublesome and time-consuming to manually decide the location of seizures in EEG signals.
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
 
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  **Useful Resources:**
   <li><a href="https://link.springer.com/article/10.1007/s11042-023-15052-2">EEG seizure detection: concepts, techniques, challenges, and future trends</a></li>
   <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13374">A review on software and hardware developments in automatic epilepsy diagnosis using EEG datasets</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2001037023004804">Computer-assisted analysis of routine EEG to identify hidden biomarkers of epilepsy: A systematic review</a></li>
@@ -532,63 +342,24 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Brain Tumor</summary>
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  
+  
+  **Useful Resources:**
   <li><a href="https">techniques</a></li>
   <li><a href="https">signals</a></li>
   <li><a href="https">Studies</a></li>
   <li><a href="https">Techniques</a></li>
   <li><a href="https">disorder</a></li>
   <li><a href="https">Learning</a></li>
-
 </details>
 
 
 <details>
   <summary>Traumatic Brain Injury</summary>
   
-  **Preprocessing methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Classificarion methods:**
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
-  **Sources:**
+  
+  
+  **Useful Resources:**
   <li><a href="https">techniques</a></li>
   <li><a href="https">signals</a></li>
   <li><a href="https">Studies</a></li>
@@ -603,9 +374,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Coma</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -613,18 +389,28 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Stroke</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
 <details>
   <summary>Brain Age Prediction</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -632,9 +418,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Brain Health assessment</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -642,9 +433,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Stress assessment</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -652,9 +448,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Sleep disorders</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -662,19 +463,28 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Suicidal Ideation</summary>
   
-  ```
-  To be Filled
-  ```
-
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 </details>
 
 
 <details>
   <summary>Addiction</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -685,9 +495,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Anesthesia</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -695,18 +510,27 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Drug development and Pharmacology</summary>
   
-  ```
-  To be Filled
-  ```
-
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 </details>
 
 <details>
   <summary>Neurostimulation</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -714,9 +538,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Pain assessment</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -724,9 +553,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Communication for locked-in patients</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -734,9 +568,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Amblyopia</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -745,9 +584,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Cognitive Load</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -755,9 +599,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Working Memory</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -767,9 +616,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Memory function</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -777,18 +631,28 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Attention and Vigilance</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
 <details>
   <summary>Lie Detection</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -796,9 +660,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Fatigue</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -806,9 +675,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Objective Performance Evaluation </summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -816,9 +690,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Senses</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -826,9 +705,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Neuroergonomics</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -837,9 +721,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Brain-Computer Interfaces (BCIs)</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -849,18 +738,28 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Neurorehabilitation</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
 <details>
   <summary>Neurolinguistics</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -869,18 +768,28 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Functional Connectivity</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
 <details>
   <summary>Developmental Neuroscience</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -890,9 +799,14 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Personalized Learning</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
@@ -900,26 +814,33 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Skill Acquisition and Training</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
 
 <details>
   <summary>Neurofeedback Training</summary>
+
   
-  ```
-Sharpening Working Memory With Real-Time Electrophysiological Brain Signals: Which Neurofeedback Paradigms Work?
-https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.780817/full
-A Systematic Review of the Effects of EEG Neurofeedback on Patients with Schizophrenia
-https://www.mdpi.com/2075-4426/14/7/763
-Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review
-https://link.springer.com/article/10.1007/s10484-022-09562-2
-Review of EEG-based neurofeedback as a therapeutic intervention to treat depression
-https://www.sciencedirect.com/science/article/pii/S092549272300001X
-  ```
+  **Useful Resources:**
+  <li><a href="https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.780817/full
+">Sharpening Working Memory With Real-Time Electrophysiological Brain Signals: Which Neurofeedback Paradigms Work?
+</a></li>
+  <li><a href="https://www.mdpi.com/2075-4426/14/7/763">A Systematic Review of the Effects of EEG Neurofeedback on Patients with Schizophrenia
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10484-022-09562-2">Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S092549272300001X
+">Review of EEG-based neurofeedback as a therapeutic intervention to treat depression
+</a></li>
 
 </details>
 
@@ -928,9 +849,14 @@ https://www.sciencedirect.com/science/article/pii/S092549272300001X
 <details>
   <summary>Emotional State Analysis</summary>
   
-  ```
-  To be Filled
-  ```
+  
+  **Useful Resources:**
+  <li><a href="https">techniques</a></li>
+  <li><a href="https">signals</a></li>
+  <li><a href="https">Studies</a></li>
+  <li><a href="https">Techniques</a></li>
+  <li><a href="https">disorder</a></li>
+  <li><a href="https">Learning</a></li>
 
 </details>
 
