@@ -681,29 +681,50 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+    
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10462-023-10690-2">Role of machine learning and deep learning techniques in EEG-based BCI emotion recognition system: a review
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443137723000042">Artifacts removal techniques in EEG data for BCI applications: A survey</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10509679">Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based Brain-Computer Interfaces: A Survey
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423009813">Integration of cloud computing in BCI: A review
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10579740">Motor Imagery Signal Classification Using Adversarial Learning: A Systematic Literature Review
+</a></li>
+  <li><a href="https://arxiv.org/abs/2404.15319">The largest EEG-based BCI reproducibility study for open science: the MOABB benchmark
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10605127">Speech imagery decoding using EEG signals and deep learning: A survey
+  <li><a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.1006763/full">Status of deep learning for EEG-based brain–computer interface applications</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10305163">Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S2214785321048033">Advances in modern EEG-BCI signal processing: A review
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2665917423001599">Machine learning techniques for electroencephalogram based brain-computer interface: A systematic literature review
+</a></li>
+<li><a href="https://www.mdpi.com/1424-8220/23/5/2798">EEG-Based BCIs on Motor Imagery Paradigm Using Wearable Technologies: A Systematic Review</a></li>
 
 </details>
 
-
-</details>
 
 <details>
   <summary>Neurorehabilitation</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10268416">A Survey of EEG and Machine Learning-Based Methods for Neural Rehabilitation
+</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-024-65910-8">Avoidance of specific calibration sessions in motor intention recognition for exoskeleton-supported rehabilitation through transfer learning on EEG data
+</a></li>
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1245707/full">Motor imagery for paediatric neurorehabilitation: how much do we know? Perspectives from a systematic review
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1186/s12984-023-01294-6">A review of combined functional neuroimaging and motion capture for motor rehabilitation
+</a></li>
+  <li><a href="https://www.mdpi.com/2218-6581/13/3/49">Intelligent Robotics in Pediatric Cooperative Neurorehabilitation: A Review
+</a></li>
+  <li><a href="https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full">Enhancing neurorehabilitation by targeting beneficial plasticity</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/15500594221123690">EEG Dynamics of Locomotion and Balancing: Solution to Neuro-Rehabilitation</a></li>
+  <li><a href="https://sappg.ufes.br/tese_drupal/tese_17478_Disserta%E7%E3o%20de%20Mestrado%20-%20Cristian%20Felipe%20Blanco%20D%EDaz.pdf">Brain-Computer Interface for Lower-Limb Neurorehabilitation: From Signal Analysis to Practical Applications</a></li>
 
 </details>
 
@@ -712,12 +733,18 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.nature.com/articles/s41599-023-01926-1">Emotional processing in bilinguals: a systematic review aimed at identifying future trends in neurolinguistics</a></li>
+  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25745">Towards Voice Reconstruction from EEG during Imagined Speech
+</a></li>
+  <li><a href="https://www.mdpi.com/2306-5354/10/6/649">Imagined Speech Classification Using EEG and Deep Learning
+</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/12/5575">Machine-Learning Methods for Speech and Handwriting Detection Using Neural Signals: A Review</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ace73f/meta">Relating EEG to continuous speech using deep neural networks: a review</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-024-57426-y">Language prediction in monolingual and bilingual speakers: an EEG study</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0911604424000113">Neurodynamics of selected language processes involved in word reading: An EEG study with French dyslexic adults</a></li>
+  <li><a href="https://www.mdpi.com/2076-3425/13/12/1613">Cognitive Neuroscience Perspectives on Language Acquisition and Processing
+</a></li>
+  
 
 </details>
 
@@ -745,27 +772,60 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/acb9be/meta">EEG-based detection of modality-specific visual and auditory sensory processing
+</a></li>
+  <li><a href=https://www.nature.com/articles/s41598-023-37829-z"">Regulation of brain cognitive states through auditory, gustatory, and olfactory stimulation with wearable monitoring</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad1ac1/meta">EEG-based hierarchical classification of level of demand and modality of auditory and visual sensory processing
+</a></li>
+  <li><a href="https://www.mdpi.com/2076-3425/14/2/131?utm_campaign=releaseissue_brainsciutm_medium=emailutm_source=releaseissueutm_term=doilink12">Short-Term Effect of Auditory Stimulation on Neural Activities: A Scoping Review of Longitudinal Electroencephalography and Magnetoencephalography Studies
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s13042-023-01797-7">Recognition of odor and pleasantness based on olfactory EEG combined with functional brain network model
+</a></li>
+  <li><a href="https://www.mdpi.com/2076-3425/13/6/866">Machine Learning-Based Classification to Disentangle EEG Responses to TMS and Auditory Input
+</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/24/1/45">Temporal Electroencephalography Traits Dissociating Tactile Information and Cross-Modal Congruence Effects</a></li>
+  <li><a href="https://www.mdpi.com/2076-3425/13/5/766">Somatosensory Event-Related Potential as an Electrophysiological Correlate of Endogenous Spatial Tactile Attention: Prospects for Electrotactile Brain-Computer Interface for Sensory Training</a></li>
+  <li><a href="https://academic.oup.com/cercor/article-abstract/34/4/bhae161/7651008">Cortical activations associated with spatial remapping of finger touch using EEG Get access Arrow
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923004202">Vicarious touch: Overlapping neural patterns between seeing and feeling touch
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924224424002838">Recent advances and applications of deep learning, electroencephalography, and modern analysis techniques in screening, evaluation, and mechanistic analysis of taste peptides
+</a></li>
+  <li><a href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.3c04611">TastePeptides-EEG: An Ensemble Model for Umami Taste Evaluation Based on Electroencephalogram and Machine Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10394408">Decoding Taste from EEG: Gustatory Evoked Potentials During Wine Tasting
+</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-51485-2_44">Study on the Detection of Vertigo Induced by GVS Based on EEG Signal Feature Binary Classification
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10055-023-00795-y">Brain activity during cybersickness: a scoping review
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00221-023-06690-x">Exploring neurophysiological correlates of visually induced motion sickness using electroencephalography (EEG)
+</a></li>
+  **Proprioceptive (body awareness):**
+The proprioceptive system is located in our muscles and joints. It provides us with a sense of body awareness and detects/controls force and pressure. The proprioceptive system also has an important regulatory role in sensory processing as proprioceptive input can assist in controlling responses to sensory stimuli.
+
+Proprioceptive input can be very calming for those who are easily overwhelmed by sensory stimulation.
+
+Proprioceptive input can be alerting for those who need increased sensory stimulation to facilitate attention and learning.
+
+Many students with autism seek proprioceptive input in order to regulate their emotional and behavioural responses to sensory stimulation.
 
 </details>
 
 
 <details>
   <summary>Neuroergonomics</summary>
-  
+  Researchers in the field of human factors and ergonomics examine both physical and cognitive human abilities and limitations and use this information to design safer, more convenient, and efficient work environments for people to interact with (Dehais and Ayaz, 2019). Neuroergonomics, which was developed as a special field of ergonomics, combines neuroscience and ergonomics to examine the brain and mental behavior of people working in the business environment (Parasuraman, 2003). It is used for the design and evaluation of human–machine systems in various work environments through the mental examination or modeling of workers (Parasuraman, 2003, Parasuraman and Rizzo, 2009). Neuroergonomics includes studies of the brain and behaviors at work and explores the relationship between work-related tasks and the brain to modify work environments to increase performance (James, 2012).
+
+Within the scope of neuroergonomics, one of the primary studies carried out to understand how a task has an effect on a working person is to determine the mental workload. Mental workload is the cognitive demand of a task. Mental workload may be evaluated by recording psychophysiological components (cardiac activity, electrooculogram, respiration or event-related potentials of brain activity signals), task performance (commonly measured with response accuracy and response latency), and self-rating questionnaires [mostly used ones being the NASA-Task Load Index (NASA-TLX) (Hart and Staveland, 1988) and the subjective workload assessment technique (SWAT) (Reid and Nygren, 1988)]. Both the task-related components and subject-related characteristics can be the reason for the increase in mental workload (Galy et al., 2012). In everyday life, increasing mental workload causes overload and eventually decreases the task performance (Borghini et al., 2014).
+
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1369847824000706">A neuroergonomics approach to investigate the mental workload of drivers in real driving settings
+</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1346794/full">Reproducible machine learning research in mental workload classification using EEG
+</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/accbed/meta">Using EEG signals to assess workload during memory retrieval in a real-world scenario
+</a></li>
 
 </details>
 
@@ -777,12 +837,20 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.mdpi.com/2306-5354/10/3/372">Connectivity Analysis in EEG Data: A Tutorial Review of the State of the Art and Emerging Trends
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2352914824000327">EEG-based functional connectivity analysis of brain abnormalities: A systematic review study
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032723001465">Alterations in EEG functional connectivity in individuals with depression: A systematic review
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1388245723006569">Can we manipulate brain connectivity? A systematic review of cortico-cortical paired associative stimulation effects
+</a></li>
+  <li><a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)07308-0">EEG connectivity and network analyses predict outcome in patients with disorders of consciousness – A systematic review and meta-analysis
+</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/acf734/meta">Analysis of functional connectivity using machine learning and deep learning in different data modalities from individuals with schizophrenia
+</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-024-59652-w">Classification of mental workload using brain connectivity and machine learning on electroencephalogram data
+</a></li>
 
 </details>
 
@@ -791,12 +859,13 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 
 </details>
 
