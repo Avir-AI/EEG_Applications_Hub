@@ -41,7 +41,11 @@
       <a href="#introduction-to-the-field">Introduction to the Field</a>
       <ul>
         <li><a href="#what-is-electroencephalographyeeg">What is Electroencephalography(EEG)?</a></li>
-        <li><a href="#how-is-ai-applied-to-eeg">How is AI applied to EEG?</a></li>
+        <li><a href="#why-is-eeg-data-so-compelling">Why is EEG Data so Compelling?</a></li>
+        <li><a href="#what-are-the-applications-of-eeg-ai-in-various-fields">What Are the Applications of EEG-AI in Various Fields?</a></li>
+        <li><a href="#what-are-the-common-preprocessing-methods">What Are the Common Preprocessing Methods?</a></li>
+        <li><a href="#what-are-the-common-cross-validation-methods">What Are the Common Cross Validation Methods?</a></li>
+        <li><a href="#what-are-the-common-classifiers">What Are the Common Classifiers?</a></li>
       </ul>
     </li>
     <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">List of Artificial Intelligence Applications in Electroencephalography</a></li>
@@ -167,6 +171,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Alzheimer’s</summary>
   Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory impairments, and behavioral changes. The presence of abnormal beta-amyloid plaques and tau protein tangles in the brain is known to be associated with AD. However, current limitations of imaging technology hinder the direct detection of these substances. Consequently, researchers are exploring alternative approaches, such as indirect assessments involving monitoring brain signals, cognitive decline levels, and blood biomarkers.
+
   
   **Useful Resources:**
   <li><a href="https://journals.uob.edu.bh/handle/123456789/5648">Intelligent Approaches for Alzheimer's Disease Diagnosis from EEG Signals: Systematic Review</a></li>
@@ -185,6 +190,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   <summary>Parkinson's</summary>
   
   Parkinson’s disease (PD) is a prevalent neurodegenerative disorder affecting millions globally. It encompasses both motor and non-motor symptoms, with a notable impact on patients’ quality of life. Electroencephalogram (EEG) is a non-invasive tool that is increasingly utilized to investigate neural mechanisms in PD, identify early diagnostic markers, and assess therapeutic responses.
+
   
   **Useful Resources:**
   <li><a href="Feature Extraction from EEG signals for detection of Parkinsons Disease">Detection of Parkinson’s disease from EEG signals using discrete wavelet transform, different entropy measures, and machine learning techniques</a></li>
@@ -199,6 +205,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Schizophrenia</summary>
   Schizophrenia (ScZ) is a chronic neuropsychiatric disorder characterized by disruptions in cognitive, perceptual, social, emotional, and behavioral functions. In the traditional approach, the diagnosis of ScZ primarily relies on the subject’s response and the psychiatrist’s experience, making it highly subjective, prejudiced, and time-consuming. In recent medical research, incorporating deep learning (DL) into the diagnostic process improves performance by reducing inter-observer variation and providing qualitative and quantitative support for clinical decisions.
+
   
   **Useful Resources:**
   <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1347082/full">A systematic review of EEG based automated schizophrenia classification through machine learning and deep learning</a></li>
@@ -217,6 +224,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>ADHD</summary>
  Attention-Deficit Hyperactivity Disorder (ADHD) is one of the most widespread neurodevelopmental disorders diagnosed in childhood. ADHD is diagnosed by following the guidelines of Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). According to DSM-5, ADHD has not yet identified a specific cause, and thus researchers continue to investigate this field.
+
   
   **Useful Resources:**
   <li><a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)02059-0#:~:text=Results%20and%20conclusions,0.8067%20f1%2Dscore).">A novel approach to identify the brain regions that best classify ADHD by means of EEG and deep learning</a></li>
@@ -231,6 +239,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Bipolar and Borderline personality disorder</summary>
   Bipolar disorder (BD) is a mental disorder characterized by depressive and manic or hypomanic episodes. The complexity in the diagnosis of Bipolar disorder (BD) due to its overlapping symptoms with other mood disorders prompted researchers and clinicians to seek new and advanced techniques for the precise detection of Bipolar disorder (BD). One of these methods is the use of advanced machine learning algorithms such as deep learning (DL).
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032723013770">Diagnostic deep learning algorithms that use resting EEG to distinguish major depressive disorder, bipolar disorder, and schizophrenia from each other and from healthy volunteers</a></li>
@@ -248,6 +257,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Depression</summary>
   Mental Status Assessment (MSA) holds significant importance in psychiatry. In recent years, several studies have leveraged Electroencephalogram (EEG) technology to gauge an individual's mental state or level of depression.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2001037024000758#tbl0020">Depression assessment using integrated multi-featured EEG bands deep neural network models: Leveraging ensemble learning techniques</a></li>
@@ -256,13 +266,15 @@ Signal processing and machine learning techniques are crucial for accurately int
   <li><a href="https://www.mdpi.com/2075-4418/13/10/1779">Electroencephalography-Based Depression Detection Using Multiple Machine Learning Techniques</a></li>
   <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1219133/full">Generation of synthetic EEG data for training algorithms supporting the diagnosis of major depressive disorder</a></li>
   <li><a href="https://www.mdpi.com/1424-8220/23/20/8639">Depressive Disorder Recognition Based on Frontal EEG Signals and Deep Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9693921">Exploration of EEG-Based Depression Biomarkers Identification Techniques and Their Applications: A Systematic Review</a></li>
 
 </details>
 
 
 <details>
   <summary>Anxiety</summary>
-  Anxiety is a psycho-physiological phenomenon related to the mental health of a person. Persistence of anxiety for an extended period of time can manifest into anxiety disorder, which is a root cause of multiple mental health issues. 
+  Anxiety is a psycho-physiological phenomenon related to the mental health of a person. Persistence of anxiety for an extended period of time can manifest into anxiety disorder, which is a root cause of multiple mental health issues.
+ 
   
   **Useful Resources:**
   <li><a href="https://peerj.com/articles/cs-1829/">A comprehensive exploration of machine learning techniques for EEG-based anxiety detection</a></li>
@@ -293,6 +305,7 @@ Signal processing and machine learning techniques are crucial for accurately int
   <summary>Dementia</summary>
   Dementia has been defined as a deterioration in cognitive capacities which impairs an individual’s capacity to carry out tasks independently daily. It is critical to recognize that dementia is more accurately defined as a syndrome than as a single disease. Electroencephalogram (EEG) is a nonintrusive neural imaging approach, which tracks the brain’s electrical activities. EEG signals have shown notable alterations in dementia patients, making EEG a helpful tool for early-stage dementia recognition and diagnosis. Machine learning algorithms have shown potential in detecting patterns in EEG data that correspond to different stages of dementia. This allows the creation of a unique dementia diagnostic tool that outperforms existing approaches in terms of accuracy and cost-effectiveness. However, further research is needed to evaluate these algorithms in clinical settings. The research dives into the implementation of multiple machine-learning methods, the extraction of attributes from EEG data, and the evaluation of these algorithms’ performance.
 
+
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923002008">Deep learning-based EEG analysis to classify normal, mild cognitive impairment, and dementia: Algorithms and dataset
 </a></li>
@@ -309,6 +322,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Learning Disabilities</summary>
   Developmental Dyslexia (DD) is a neurobiological condition affecting the ability to read fluently and/or accurately. Analyzing resting-state electroencephalographic (EEG) activity in DD may provide a deeper characterization of the underlying pathophysiology and possible biomarkers.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809422010072">EEG based classification of children with learning disabilities using shallow and deep neural network</a></li>
@@ -324,6 +338,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 <details>
   <summary>Epilepsy and Seizure</summary>
   Epilepsy is a central nervous system disorder. In epilepsy brain activity becomes abnormal, leading to times of abnormal behavior or seizures, and at times loss of awareness. Consequently, epilepsy patients face problems in daily life due to precautions they must take to adapt to this condition, particularly when they use heavy equipment, e.g., vehicle derivation. Epilepsy studies rely primarily on electroencephalography (EEG) signals to evaluate brain activity during seizures. It is troublesome and time-consuming to manually decide the location of seizures in EEG signals.
+
   
 
   **Useful Resources:**
@@ -341,16 +356,17 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 <details>
   <summary>Brain Tumor</summary>
-  
+  According to the International Agency for Research on Cancer (IARC), the mortality rate due to brain tumors is 76%. It is required to detect the brain tumors as early as possible and to provide the patient with the required treatment to avoid any fatal situation. Scalp EEG can be used to diagnose brain diseases mainly because the electrical activity of the cerebral cortex has a great influence on EEG. The abnormality of EEG can be understood as the abnormality of brain activity.
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10193098">Brain Tumor Prediction from EEG Signal using Machine Learning Algorithm</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9385291">Evaluation and Diagnosis of Brain Diseases based on Non-invasive BCI</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9972643">Brain Tumor Detection using Machine Learning Techniques with Internet of Things</a></li>
+  <li><a href="https://www.ingentaconnect.com/content/ben/cmir/2019/00000015/00000006/art00010">
+Detecting Brain Tumor using Machines Learning Techniques Based on Different Features Extracting Strategies
+</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2115/1/012039/meta">Evolution in diagnosis and detection of brain tumor – review</a></li>
 </details>
 
 
@@ -360,28 +376,25 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
-
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9364756">Evaluating Performance of EEG Data-Driven Machine Learning for Traumatic Brain Injury Classification</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/15500594231202265">Quantitative Electroencephalography Objectivity and Reliability in the Diagnosis and Management of Traumatic Brain Injury: A Systematic Review</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac1982/meta">Review of wearable technologies and machine learning methodologies for systematic detection of mild traumatic brain injuries</a></li>
+  <li><a href="https://www.mdpi.com/2227-9059/10/10/2472"> Traumatic Brain Injury (TBI) Detection: Past, Present, and Future </a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9630242">Automatic Detection of EEG Epileptiform Abnormalities in Traumatic Brain Injury using Deep Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2213158223000396">Early EEG monitoring predicts clinical outcome in patients with moderate to severe traumatic brain injury</a></li>
 </details>
 
-</details>
 
 <details>
   <summary>Coma</summary>
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.mdpi.com/2075-4418/13/8/1383"> Quantitative Electroencephalography Analysis for Improved Assessment of Consciousness Levels in Deep Coma Patients Using a Proposed Stimulus Stage </a></li>
+  <li><a href="https://www.mdpi.com/2076-3425/11/6/697"> Narrative Review: Quantitative EEG in Disorders of Consciousness </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S138824572200904X">EEG-based methods for recovery prognosis of patients with disorders of consciousness: A systematic review</a></li>
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.1040816/full?trk=public_post_comment-text">EEG-based Brain-Computer Interfaces for people with Disorders of Consciousness: Features and applications. A systematic review
+</a></li>
 
 </details>
 
@@ -391,12 +404,10 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://link.springer.com/article/10.1186/s12873-022-00585-w">Surface electroencephalography (EEG) during the acute phase of stroke to assist with diagnosis and prediction of prognosis: a scoping review</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9145945">Encoding Rich Frequencies for Classification of Stroke Patients EEG Signals</a></li>
+  <li><a href="https://www.proquest.com/openview/5d08fb73ccb0f77d18a5d815c9a5ca25/1?pq-origsite=gscholar&cbl=2045096">A Comprehensive Method for Identification of Stroke using Deep Learning</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/21/13/4269"> Deep Learning-Based Stroke Disease Prediction System Using Real-Time Bio Signals </a></li>
 
 </details>
 
@@ -405,12 +416,15 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00210/122334"> Brain age revisited: Investigating the state vs. trait hypotheses of EEG-derived brain-age dynamics with deep learning </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S105381192200636X?ref=cra_js_challenge&fr=RR-1">A reusable benchmark of brain-age prediction from M/EEG resting-state signals</a></li>
+  <li><a href="https://www.mdpi.com/2306-5354/11/5/418"> Age-Related Characteristics of Resting-State Electroencephalographic Signals and the Corresponding Analytic Approaches: A Review </a></li>
+  <li><a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00049-1">A systematic review of multimodal brain age studies: Uncovering a divergence between model accuracy and utility</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/22/21/8112"> Brain Age Prediction/Classification through Recurrent Deep Learning with Electroencephalogram Recordings of Seizure Subjects </a></li>
+  <li><a href="https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.1019869/full?trk=organization_guest_main-feed-card_feed-article-content">Predicting age from resting-state scalp EEG signals with deep convolutional neural networks on TD-brain dataset
+</a></li>
+<li><a href="https://ieeexplore.ieee.org/abstract/document/10560863"> Enhancing Brain Age Prediction: A Generative AI Approach for EEG Machine Learning Models </a></li>
+<li><a href="https://www.mdpi.com/1424-8220/22/21/8112"> Brain Age Prediction/Classification through Recurrent Deep Learning with Electroencephalogram Recordings of Seizure Subjects </a></li>
 
 </details>
 
@@ -420,12 +434,11 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.mdpi.com/2076-3417/12/19/9560"> Quantitative Electroencephalogram (qEEG) as a Natural and Non-Invasive Window into Living Brain and Mind in the Functional Continuum of Healthy and Pathological Conditions </a></li>
+  <li><a href="https://www.nature.com/articles/s41598-023-37128-7">Decoding information about cognitive health from the brainwaves of sleep</a></li>
+  <li><a href="https://www.biorxiv.org/content/10.1101/2024.02.27.581950v1.abstract">On Monitoring Brain Health from the Depths of Sleep: Feature Engineering and Machine Learning Insights for Digital Biomarker Development</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1757-899X/1055/1/012091/meta">A Machine learning approach to monitor Brain Health and epilepsy detection</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s12021-022-09572-9">How Machine Learning is Powering Neuroimaging to Improve Brain Health</a></li>
 
 </details>
 
@@ -435,12 +448,12 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/21/15/5043"> A Review on Mental Stress Assessment Methods Using EEG Signals </a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00521-024-09809-5">A review on evaluating mental stress by deep learning using EEG signals</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9795221">Methods and Measures for Mental Stress Assessment in Surgery: A Systematic Review of 20 Years of Literature</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10243151">Mental Stress Assessment in the Workplace: A Review</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2022/4565968">A Novel Stress State Assessment Method for College Students Based on EEG</a></li>
+  <li><a href="https://arxiv.org/abs/2202.03033">Human Stress Assessment: A Comprehensive Review of Methods Using Wearable Sensors and Non-wearable Techniques</a></li>
 
 </details>
 
@@ -450,12 +463,12 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482522008083">A review of automated sleep disorder detection</a></li>
+  <li><a href="https://www.mdpi.com/2079-9292/10/13/1531"> Automated Identification of Sleep Disorder Types Using Triplet Half-Band Filter and Ensemble Machine Learning Techniques with EEG Signals </a></li>
+  <li><a href="https://www.scirp.org/journal/paperinformation?paperid=112539"> The Role of EEG in the Diagnosis and Management of Patients with Sleep Disorders </a></li>
+  <li><a href="https://www.mdpi.com/2076-3417/10/24/8963"> Automated Detection of Sleep Stages Using Deep Learning Techniques: A Systematic Review of the Last Decade (2010–2020) </a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/7/3468"> Simultaneous Sleep Stage and Sleep Disorder Detection from Multimodal Sensors Using Deep Learning </a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9445159">Deep Learning for Sleep Disorders: A Review</a></li>
 
 </details>
 
@@ -465,12 +478,12 @@ Signal processing and machine learning techniques are crucial for accurately int
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180">Machine learning for suicidal ideation identification: A systematic literature review</a></li>
+  <li><a href="https://www.nature.com/articles/s44277-024-00012-x">Neural activity during inhibitory control predicts suicidal ideation with machine learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0278584624000332">Differentiation between suicide attempt and suicidal ideation in patients with major depressive disorder using cortical functional network</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11571-022-09904-0">Artificial intelligence assisted tools for the detection of anxiety and depression leading to suicidal ideation in adolescents: a review</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/1550059421991685">Differences of EEG Frequency and Spatial Parameters in Depressive Female Adolescents With Suicidal Attempts and Non-suicidal Self-injuries</a></li>
+  
 </details>
 
 
@@ -841,6 +854,11 @@ Signal processing and machine learning techniques are crucial for accurately int
   <li><a href="https://www.sciencedirect.com/science/article/pii/S092549272300001X
 ">Review of EEG-based neurofeedback as a therapeutic intervention to treat depression
 </a></li>
+  <li><a href="https://www.mdpi.com/2075-1729/13/2/365">EEG-Neurofeedback as a Potential Therapeutic Approach for Cognitive Deficits in Patients with Dementia, Multiple Sclerosis, Stroke and Traumatic Brain Injury</a></li>
+  <li><a href="https://ddfv.ufv.es/entities/publication/ea103500-999c-4ac4-917a-6d4a46796e68">
+Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neurofeedback in comparison to conventional methods.</a></li>
+  <li><a href="">depression</a></li>
+
 
 </details>
 
