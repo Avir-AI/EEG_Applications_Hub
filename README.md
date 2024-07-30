@@ -439,6 +439,9 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   <li><a href="http://www.prof-buettner.de/downloads/gross2020a.pdf">A Novel Machine Learning Approach for High-Performance Diagnosis of Premature Internet Addiction Using the Unfolded EEG Spectra</a></li>
   <li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00676/full">Neuropsychophysiological Measures of Alcohol Dependence: Can We Use EEG in the Clinical Assessment?
 </a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10899-024-10332-4">Problematic Gaming and Gambling: A Systematic Review of Task-Specific EEG Protocols</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022395624004059">Multimodal Analysis of Cortical Activation in Young Male Adults with Internet Gaming Disorder: A Resting State EEG-fNIRS Study</a></li>
+
 
 </details>
 
@@ -725,6 +728,7 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   <li><a href="https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full">Enhancing neurorehabilitation by targeting beneficial plasticity</a></li>
   <li><a href="https://journals.sagepub.com/doi/abs/10.1177/15500594221123690">EEG Dynamics of Locomotion and Balancing: Solution to Neuro-Rehabilitation</a></li>
   <li><a href="https://sappg.ufes.br/tese_drupal/tese_17478_Disserta%E7%E3o%20de%20Mestrado%20-%20Cristian%20Felipe%20Blanco%20D%EDaz.pdf">Brain-Computer Interface for Lower-Limb Neurorehabilitation: From Signal Analysis to Practical Applications</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10504349">Incorporating Motor Imagery-Controlled Gaming into Paralysis Rehabilitation</a></li>
 
 </details>
 
@@ -860,12 +864,11 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
   
   **Useful Resources:**
 
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1878929323000063">Maximizing the potential of EEG as a developmental neuroscience tool</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13259">How infant-directed actions enhance infants’ attention, learning, and exploration: Evidence from EEG and computational modeling</a></li>
+  <li><a href="https://journals.sagepub.com/doi/full/10.1177/08830738231177386">Electroencephalographic (EEG) Biomarkers in Genetic Neurodevelopmental Disorders</a></li>
+  <li><a href="https://link.springer.com/article/10.1186/s11689-023-09481-1">The contribution of theta and delta to feedback processing in children with developmental language disorder</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-023-47606-7">Application of bi-directional long-short-term memory network in cognitive age prediction based on EEG signals</a></li>
 
 </details>
 
@@ -877,12 +880,12 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923005189">Is neuroimaging ready for the classroom? A systematic review of hyperscanning studies in learning</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10584531">Advancing Real-Time Remote Learning: A Novel Paradigm for Cognitive Enhancement Using EEG and Eye-Tracking Analytics</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10639-022-11372-2">On enhancing students’ cognitive abilities in online learning using brain activity and eye movements</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10601997">Learning Behavior Analysis for Personalized E-Learning using EEG Signals</a></li>
+  <li><a href="https://www.mdpi.com/2227-7102/13/9/914">Emotions Matter: A Systematic Review and Meta-Analysis of the Detection and Classification of Students’ Emotions in STEM during Online Learning </a></li>
+  <li><a href="https://www.mdpi.com/2073-431X/13/4/96"> The Use of Integrated Multichannel Records in Learning Studies in Higher Education: A Systematic Review of the Last 10 Years </a></li>
 
 </details>
 
@@ -891,13 +894,18 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
   <summary>Skill Acquisition and Training</summary>
   
   
-  **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  **Useful Resources:** (Frontiers in Neuroscience works alot in this field)
+  <li><a href="https://link.springer.com/article/10.1007/s00464-024-11049-6">Classification of subtask types and skill levels in robot-assisted surgery using EEG, eye-tracking, and machine learning</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11701-023-01722-8">Surgical skill level classification model development using EEG and eye-gaze data and machine learning algorithms</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11760-022-02327-8">Assessment of learning a new skill using nonlinear and spectral features of EEG</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1094658/full">Characteristics of EEG power spectra involved in the proficiency of motor learning
+</a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1273186/full">A new EEG neurofeedback training approach in sports: the effects function-specific instruction of Mu rhythm and visuomotor skill performance
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10379685">Advancing Aviation Safety Through Machine Learning and Psychophysiological Data: A Systematic Review</a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1172103/full">EEG-based analysis for pilots’ at-risk cognitive competency identification using RF-CNN algorithm
+</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423021607">An EEG-based cross-subject interpretable CNN for game player expertise level classification</a></li>
 
 </details>
 
@@ -932,12 +940,21 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
   
   
   **Useful Resources:**
-  <li><a href="https">techniques</a></li>
-  <li><a href="https">signals</a></li>
-  <li><a href="https">Studies</a></li>
-  <li><a href="https">Techniques</a></li>
-  <li><a href="https">disorder</a></li>
-  <li><a href="https">Learning</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523009150">Emotion recognition in EEG signals using deep learning methods: A review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523005341">Multimodal Emotion Recognition with Deep Learning: Advancements, challenges, and future directions</a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1387089/full">Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review
+</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-024-61832-7">Insights from EEG analysis of evoked memory recalls using deep learning for emotion charting</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10443946">EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective</a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1289816/full">Mini review: Challenges in EEG emotion recognition
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10462-023-10690-2">Role of machine learning and deep learning techniques in EEG-based BCI emotion recognition system: a review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1389041723000803">A systematic literature review of emotion recognition using EEG signals</a></li>
+  <li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1126994/full">Deep learning-based EEG emotion recognition: Current trends and future perspectives
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523005067">A review on semi-supervised learning for EEG-based emotion recognition☆</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S036013152300074X">Measuring emotions in education using wearable devices: A systematic review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131524001258">Bridging computer and education sciences: A systematic review of automated emotion recognition in online learning environments</a></li>
 
 </details>
 
@@ -947,9 +964,20 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Immersive Gaming and Entertainment</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10064320">Neural Applications Using Immersive Virtual Reality: A Review on EEG Studies</a></li>
+  <li><a href=""></a></li>
+  <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-3-031-23161-2_176">EEG as an Input for Virtual Reality</a></li>
+  <li><a href="https://www.worldscientific.com/doi/abs/10.4015/S1016237224500224">MENTAL WORKLOAD ASSESSMENT OF GAMERS’ EEG WITH MULTI-DOMAIN FEATURE-BASED COGNITIVE MODEL AND ITS VALIDATION</a></li>
+  <li><a href="https://www.mdpi.com/2079-9292/13/11/2043">Assessing the Effects of Various Gaming Platforms on Players’ Affective States and Workloads through Electroencephalogram </a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10589391">Analysis Learning Model With Biometric Devices for Business Simulation Games: Brazilian Case Study</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10049421">Virtual Reality Cognitive Gaming Based on Brain Computer Interfacing: A Narrative Review</a></li>
+  <li><a href="">Classification of VR-Gaming Difficulty Induced Stress Levels using Physiological (EEG & ECG) Signals and Machine Learning</a></li>
+  <li><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.16873471.v1"></a></li>
+  <li><a href="https://www.mdpi.com/1999-5903/15/8/264"> Mapping EEG Alpha Activity: Assessing Concentration Levels during Player Experience in Virtual Reality Video Games </a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-61569-6_5">The Influence of Educational and Entertainment Videos on Children’s Frontal EEG Activity: A Case Study</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26">Research on Brain-Computer Interfaces in the Entertainment Field</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 
 </details>
 
@@ -957,18 +985,26 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Meditation and Mindfulness</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1033420/full">EEG-based investigation of effects of mindfulness meditation training on state and trait by deep learning and traditional machine learning
+</a></li>
+  <li><a href="https://academic.oup.com/cercor/article-abstract/34/7/bhae288/7716272">Enhancing specialization of attention-related EEG power and phase synchronism brain patterns by meditation</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2667242123000209">Intermediate effects of mindfulness practice on the brain activity of college students: An EEG study</a></li>
+  <li><a href="https://www.cell.com/heliyon/fulltext/S2405-8440(23)07283-3">Long-term practice of intuitive inquiry meditation modulates EEG dynamics during self-schema processing</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-97-1463-6_15">Mindfulness Intervention Affects Cognitive Abilities of Students: A Time–Frequency Analysis Using EEG</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10777293/">Convolutional neural networks for classifying healthy individuals practicing or not practicing meditation according to the EEG data</a></li>
 
 </details>
 
 <details>
   <summary>Smart Home Systems</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-7456-6_10">Smart Home</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-42622-3_51">Brain-Computer-Interface (BCI) Based Smart Home Control Using EEG Mental Commands</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s12652-022-04469-6">A hybrid EEG and head motion system for smart home control for disabled people</a></li>
+  <li><a href="https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1167410/full">Eliciting brain waves of people with cognitive impairment during meditation exercises using portable electroencephalography in a smart-home environment: a pilot study
+</a></li>
+  <li><a href="https://inass.org/wp-content/uploads/2022/10/2023022828-2.pdf">Design and Implementation of EEG-Based Smart Structure</a></li>
+
 
 </details>
 
@@ -976,9 +1012,14 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Wearable Technology</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10025407">Diversity and Suitability of the State-of-the-Art Wearable and Wireless EEG Systems Review</a></li>
 
 </details>
 
@@ -987,9 +1028,11 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Human-Computer Interaction (HCI)</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJBM.2024.135160">Recent trends and challenges in human computer interaction using automatic emotion recognition: a review</a></li>
+  <li><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2022.2116530">A Systematic Review of Human–Computer Interaction (HCI) Research in Medical and Other Engineering Fields</a></li>
+  <li><a href="https://dl.acm.org/doi/full/10.1145/3582272">A Survey on Measuring Cognitive Workload in Human-Computer Interaction</a></li>
+  <li><a href="https://www.mdpi.com/2076-3417/14/1/368"> Human–Computer Interaction Multi-Task Modeling Based on Implicit Intent EEG Decoding </a></li>
+  <li><a href="https://dl.acm.org/doi/abs/10.1145/3593226">EEG-Based Brain-Computer Interactions in Immersive Virtual and Augmented Reality: A Systematic Review</a></li>
 
 </details>
 
@@ -997,9 +1040,14 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Neuromarketing and Advertisement</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://link.springer.com/article/10.1186/s40708-024-00229-8">A systematic review on EEG-based neuromarketing: recent trends and analyzing techniques</a></li>
+  <li><a href="https://journals.sagepub.com/doi/full/10.1177/14707853221112622">A practical review of electroencephalography’s value to consumer research</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1877050923013972">The use of electroencephalography (EEG) in a study into the effectiveness of advertising communication</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s12144-023-04812-w">Exploring global trends and future directions in advertising research: A focus on consumer behavior</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031938424000544">A review on the use of eeg for the investigation of the factors that affect Consumer’s behavior</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cb.2142">An EEG-based neuro-recommendation system for improving consumer purchase experience</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423009023">Neuromarketing and decision-making: Classification of consumer preferences based on changes analysis in the EEG signal of brain regions</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11042-023-17114-x">Multi-channel EEG-based classification of consumer preferences using multitaper spectral analysis and deep learning model</a></li>
 
 </details>
 
@@ -1007,31 +1055,33 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Neuroaesthetics</summary>
   
-  ```
-  To be Filled
-  ```
-
+  <li><a href="https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1341790/full">Ecological decoding of visual aesthetic preference with oscillatory electroencephalogram features—A mini-review
+</a></li>
+  <li><a href="https://dl.acm.org/doi/abs/10.1145/3640824.3640839">Artificial Aesthetics: Bridging Neuroaesthetics and Machine Learning</a></li>
+  <li><a href="https://link.springer.com/article/10.1186/s13010-023-00147-3">One hundred years of neurosciences in the arts and humanities, a bibliometric review</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-33013-1_1">Neuroaesthetics: How We Like What We Like</a></li>
+  <li><a href="https://papers.cumincad.org/data/works/att/caadria2024_486.pdf">EMPIRICAL INSIGHTS INTO ARCHITECTURAL AESTHETICS: A NEUROSCIENTIFIC PERSPECTIVE</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0149763423001665">The Neuroscience of Dance: A Conceptual Framework and Systematic Review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2095263523000912">Contemplative neuroaesthetics and architecture: A sensorimotor exploration</a></li>
+  <li><a href="">Exploring Methodological Approaches of Experimental Studies in the Field of Neuroarchitecture: A Systematic Review</a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/19375867221133135"></a></li>
+  <li><a href="https://journals.sagepub.com/doi/full/10.1177/10892680241260840">Neurodynamics of Relational Aesthetic Engagement in Creative Arts Therapies</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s11571-022-09821-2">Cross-subject aesthetic preference recognition of Chinese dance posture using EEG</a></li>
 </details>
 
 
 <details>
   <summary>User Experience</summary>
   
-  ```
-  To be Filled
-  ```
-
-</details>
-
-
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2451958824000149">Evaluating chatbot user experience (UX) through electroencephalography measures: A systematic literature review</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10462893">Evaluation of User Interface, User Experience, and Usability in Software Through Electroencephalography (EEG) Signal Detection: A Mapping Review</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10035957">User Experience: A Bibliometric Review of the Literature</a></li>
+  <li><a href="https://dl.acm.org/doi/abs/10.1145/3593434.3593452">Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-0293-4_53">Who to Blame—User Interface Design or Learning Content? A Neurophysiological UX Assessment of e-learning Process</a></li>
 </details>
 
 <details>
   <summary>Workforce Monitoring</summary>
-  
-  ```
-  To be Filled
-  ```
 
 </details>
 
@@ -1040,17 +1090,23 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Biometric Authentication</summary>
   
-  ```
-  To be Filled
-  ```
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10536762">EEG-based Biometric Authentication Using Machine and Deep Learning Approachs : A Review</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10577965">Systematic Review of Brain-Computer Interface-Based User Authentication System: Trends, Challenges, and Directions</a></li>
+  <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.345">EEG-based biometric authentication system using convolutional neural network for military applications</a></li>
+  <li><a href="https://link.springer.com/article/10.1186/s40708-023-00198-4">An evaluation of transfer learning models in EEG-based authentication</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00521-022-07795-0">Biometric identification system using EEG signals</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10058960">A Review of EEG-Based User Authentication: Trends and Future Research Directions</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+
 
 </details>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
-
+## Datasets
+<li><a href="https://ieeexplore.ieee.org/abstract/document/10176120">A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models</a></li>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
