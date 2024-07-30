@@ -372,7 +372,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Traumatic Brain Injury</summary>
-  
+  Traumatic brain injury (TBI) can produce temporary biochemical imbalance due to leaks through cell membranes or disruption of the axoplasmic flow due to the misalignment of intracellular neurofilaments. If untreated, TBI can lead to Alzheimer’s, Parkinson’s, or total disability. Mild TBI (mTBI) accounts for about about 90 percent of all TBI cases. The detection of TBI as soon as it happens is crucial for successful treatment management. Neuroimaging-based tests provide only a structural and functional mapping of the brain with poor temporal resolution. Such tests may not detect mTBI. On the other hand, the electroencephalogram (EEG) provides good spatial resolution and excellent temporal resolution of the brain activities beside its portability and low cost.
+
   
   
   **Useful Resources:**
@@ -387,7 +388,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Coma</summary>
-  
+  A coma is a profound state of unconsciousness where a patient is unable to respond to commands, speak, or open their eyes, making it a critical condition requiring precise evaluation. Disorders of consciousness (DoC), such as coma, vegetative state (VS)/unresponsive wakefulness syndrome (VS/UWS), and minimally conscious state (MCS), present significant challenges in diagnosis and treatment, often complicated by the fluctuating nature of the patient's condition. Electroencephalography (EEG) has emerged as a valuable tool in this context, offering biomarkers that can predict recovery and provide insights into the patient's level of consciousness. The integration of artificial intelligence (AI) in analyzing EEG data has further enhanced the accuracy of these assessments, potentially reducing the high misdiagnosis rates between different DoC states and uncovering "covert" awareness in patients. This synergy of EEG and AI not only aids in more accurate diagnosis but also opens avenues for therapeutic interventions, such as brain-computer interfaces (BCIs), in the rehabilitation of patients with DoC.
+
   
   **Useful Resources:**
   <li><a href="https://www.mdpi.com/2075-4418/13/8/1383"> Quantitative Electroencephalography Analysis for Improved Assessment of Consciousness Levels in Deep Coma Patients Using a Proposed Stimulus Stage </a></li>
@@ -401,7 +403,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Stroke</summary>
-  
+  Stroke, a sudden disruption of blood supply to the brain, is a leading cause of mortality and disability worldwide, affecting millions annually. Early and accurate diagnosis is crucial for effective treatment, particularly in distinguishing between ischemic and hemorrhagic strokes and identifying large vessel occlusions (LVO) which require urgent intervention. Surface electroencephalography (EEG) has emerged as a promising tool in this regard, offering the potential for rapid stroke identification and prognosis prediction. The integration of artificial intelligence (AI) with EEG analysis enhances its diagnostic capabilities, enabling more accurate differentiation between stroke and stroke mimics, as well as between types of strokes. Moreover, AI-driven EEG analysis facilitates continuous monitoring of stroke patients, providing valuable insights into recovery progress. This technological synergy not only aids in the timely and accurate diagnosis of stroke but also supports rehabilitation efforts, offering a non-invasive, cost-effective alternative to traditional imaging methods.
+
   
   **Useful Resources:**
   <li><a href="https://link.springer.com/article/10.1186/s12873-022-00585-w">Surface electroencephalography (EEG) during the acute phase of stroke to assist with diagnosis and prediction of prognosis: a scoping review</a></li>
@@ -414,7 +417,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Suicidal Ideation</summary>
-  
+  Suicidal ideation (SI) represents a critical stage in the spectrum of suicide risk, making its early detection and intervention paramount in preventing suicide, which occurs approximately every 40 seconds globally. EEG (electroencephalography) has shown promise as a tool for identifying neurophysiological markers associated with SI, providing a non-invasive and scalable method to assess individuals at risk. Recent advancements in artificial intelligence (AI), particularly machine learning, have enhanced the analysis of EEG data, enabling the development of predictive models that can differentiate between those experiencing SI and those who are not. These models have demonstrated high accuracy and specificity, especially in analyzing brainwave patterns related to cognitive tasks and emotional processing. This integration of EEG and AI not only aids in the early identification of SI but also offers a potential pathway for targeted interventions, thereby improving outcomes and reducing the incidence of suicide.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563221004180">Machine learning for suicidal ideation identification: A systematic literature review</a></li>
@@ -428,7 +432,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Addiction</summary>
-  
+  Addiction, including substance use disorders (SUDs), represents a significant global health challenge, characterized by complex neurobiological underpinnings and variable treatment outcomes. While traditional methods have struggled to objectively track treatment efficacy, electroencephalography (EEG) has emerged as a promising tool for identifying brain-based biomarkers associated with addiction and recovery. Recent research highlights EEG's potential in monitoring abstinence, predicting relapse, and evaluating treatment responses, with specific EEG patterns correlating to different outcomes. The integration of artificial intelligence (AI) with EEG data analysis enhances the ability to discern subtle neurophysiological changes, offering more precise and personalized treatment approaches. This synergy not only aids in better understanding the neural dynamics of addiction but also facilitates early intervention and tailored therapies, potentially reducing relapse rates and improving long-term recovery outcomes. As the field progresses, the continued development and standardization of EEG-based biomarkers, supported by large-scale studies, are crucial for advancing the clinical application of these technologies in addiction treatment.
+
   
   **Useful Resources:**
   <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2022.995534/full">A scoping review of electroencephalographic (EEG) markers for tracking neurophysiological changes and predicting outcomes in substance use disorder treatment
@@ -450,7 +455,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Anesthesia</summary>
-  
+  Anesthesia is a critical component of surgical practice, requiring precise control to ensure patient safety and comfort. Traditional methods for assessing the depth of anesthesia (DoA) often struggle with variability among patients, leading to challenges such as postoperative complications and accidental awareness during surgery. Electroencephalography (EEG) has emerged as a valuable tool for real-time monitoring of DoA, providing insights into the brain's state by measuring electrical activity. Recent advances in artificial intelligence (AI), particularly deep learning techniques, have significantly enhanced the accuracy and reliability of EEG-based DoA monitoring. By leveraging complex neural network models, AI can continuously predict indices like the Bispectral Index (BIS) with high precision, outperforming conventional methods. These technologies not only improve the accuracy of anesthesia monitoring but also pave the way for more individualized patient care, potentially reducing the risks associated with anesthesia. As the integration of AI in anesthesiology progresses, it promises to set new standards in patient safety and clinical outcomes, offering a more sophisticated and responsive approach to anesthetic management.
+
   
   **Useful Resources:**
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9385837">A Combinatorial Deep Learning Structure for Precise Depth of Anesthesia Estimation From EEG Signals</a></li>
@@ -469,9 +475,11 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   <summary>Drug development and Pharmacology</summary>
   The analysis of electroencephalogram (EEG) signals has become a pivotal tool in drug development and pharmacology, providing valuable insights into neural responses and cognitive effects induced by pharmacological interventions. This method has significantly contributed to the understanding of drug mechanisms and their impact on the brain. As the field advances, numerous drugs are being developed to address various neurological and psychiatric conditions, and research papers focusing on these diseases are readily available for further exploration based on specific areas of interest.
 
+</details>
 <details>
   <summary>Neurostimulation</summary>
   Electroencephalogram (EEG) signal analysis, empowered by machine learning (ML) and deep learning (DL) techniques, has shown transformative potential in the optimization of neurostimulation therapies. 
+
   
   **Useful Resources:**
   <li><a href="https://www.nature.com/articles/s41746-023-00779-x">Landscape and future directions of machine learning applications in closed-loop brain stimulation</a></li>
@@ -486,7 +494,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Pain assessment</summary>
-  
+  Pain assessment is a critical yet challenging aspect of medical care, particularly in diagnosing and managing chronic pain conditions. Traditional methods often rely on subjective patient reports, which can be inconsistent and difficult to quantify. Recent advancements in machine learning (ML) and electroencephalography (EEG) offer promising new avenues for objective pain assessment. EEG, a non-invasive technique that measures electrical activity in the brain, can capture neural responses associated with pain. By applying ML algorithms to EEG data, researchers have begun to predict pain intensity, phenotypes, and treatment responses with significant accuracy, ranging from 57% to 100%. These technologies could revolutionize clinical pain management by providing reliable, objective biomarkers for pain, thus enhancing diagnostic precision and tailoring treatments more effectively. However, challenges such as heterogeneous methodologies and potential biases in studies highlight the need for standardized reporting and external validation to improve clinical translation and reliability. As the field advances, integrating EEG and AI into routine clinical practice holds the potential to significantly improve outcomes for patients suffering from chronic pain.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1526590021003151">Systematic Review of the Effectiveness of Machine Learning Algorithms for Classifying Pain Intensity, Phenotype or Treatment Outcomes Using Electroencephalogram Data</a></li>
@@ -504,7 +513,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Brain Age Prediction</summary>
-  
+  Brain age prediction, a field leveraging electroencephalography (EEG) and artificial intelligence (AI), is emerging as a vital tool in assessing neurological health. By analyzing EEG data, researchers can estimate the "brain age" of individuals, providing insights into age-related changes in neural activity. This method offers potential in identifying early signs of neurodegenerative diseases and other neurological conditions. AI enhances this process by enabling the handling of complex EEG data from diverse populations, improving the accuracy of predictions. Benchmarking studies across international datasets have demonstrated that machine learning models, particularly those integrating spatially aware representations and synthetic data augmentation, can predict brain age with high accuracy. These advancements not only aid in clinical diagnostics and prognosis but also hold promise for large-scale public health applications, contributing to our understanding of aging and brain health in socioeconomically diverse environments.
+
   
   **Useful Resources:**
   <li><a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00210/122334"> Brain age revisited: Investigating the state vs. trait hypotheses of EEG-derived brain-age dynamics with deep learning </a></li>
@@ -522,7 +532,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Brain Health assessment</summary>
-  
+  Assessing brain health is increasingly recognized as a critical aspect of medical care, particularly in the early detection and management of neurological and psychiatric conditions. Electroencephalography (EEG), a non-invasive tool that measures electrical activity in the brain, has become a cornerstone in this field due to its ability to capture real-time brain dynamics. Advances in artificial intelligence (AI) have further enhanced the potential of EEG by enabling sophisticated analyses of complex data sets, which can reveal biomarkers for conditions like epilepsy, cognitive decline, and other neurodegenerative diseases. Recent developments, such as machine learning algorithms that decode sleep EEG signals, offer new insights into brain health and cognitive function. Despite these advances, challenges remain in integrating these technologies into clinical practice, particularly due to the need for standardized frameworks and accessible tools. This synthesis of neuroscience research highlights the promise of combining EEG with AI to create robust, scalable methods for monitoring brain health, ultimately aiming to bridge the gap between research and practical healthcare applications.
+
   
   **Useful Resources:**
   <li><a href="https://www.mdpi.com/2076-3417/12/19/9560"> Quantitative Electroencephalogram (qEEG) as a Natural and Non-Invasive Window into Living Brain and Mind in the Functional Continuum of Healthy and Pathological Conditions </a></li>
@@ -536,7 +547,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Stress assessment</summary>
-  
+  Mental stress is a significant concern that impacts overall health and productivity, particularly in high-pressure environments like workplaces and surgical settings. Effective stress assessment tools are crucial for early detection and intervention, helping prevent the onset of serious health issues. Electroencephalography (EEG) stands out as a valuable tool in this domain due to its non-invasive nature and ability to provide real-time data on brain activity related to stress. Recent advancements in artificial intelligence (AI), particularly deep learning techniques such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs), have enhanced the analysis of EEG signals, allowing for more accurate and nuanced stress assessments. These technologies can interpret complex EEG features and identify stress markers with high precision, even in diverse and dynamic environments. Integrating EEG with other physiological measures like Galvanic Skin Response (GSR) and Functional Near-Infrared Spectroscopy (fNIRS) offers a multimodal approach to stress assessment, further improving accuracy and applicability. This comprehensive method not only aids in monitoring mental stress but also opens avenues for developing targeted stress management strategies, potentially incorporating biofeedback and neurostimulation techniques for real-time intervention.
+
   
   **Useful Resources:**
   <li><a href="https://www.mdpi.com/1424-8220/21/15/5043"> A Review on Mental Stress Assessment Methods Using EEG Signals </a></li>
@@ -551,7 +563,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Sleep disorders</summary>
-  
+  Sleep disorders, which disrupt normal sleep patterns and significantly impact overall health, are increasingly recognized as a major public health concern. Traditional methods for diagnosing these disorders, such as polysomnography (PSG) and subjective questionnaires, are often time-consuming and inconvenient for both patients and clinicians. Recent advancements in Electroencephalography (EEG) and Artificial Intelligence (AI) offer promising solutions to these challenges. EEG, with its ability to provide detailed insights into brain activity during sleep, is instrumental in detecting various sleep disorders. AI, particularly deep learning techniques like Convolutional Neural Networks (CNNs) and ensemble methods, has revolutionized automated sleep disorder detection by analyzing complex EEG patterns with high accuracy and efficiency. By integrating these technologies, researchers are developing sophisticated tools that can quickly and reliably identify disorders such as insomnia, sleep apnea, and narcolepsy, improving diagnostic precision and enabling more personalized treatment approaches. The combination of EEG's detailed brain activity monitoring and AI's advanced data analysis capabilities promises to enhance the accuracy of sleep disorder detection and management, ultimately leading to better patient outcomes and more efficient healthcare delivery.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482522008083">A review of automated sleep disorder detection</a></li>
@@ -566,7 +579,9 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Cognitive Load</summary>
-  
+  Cognitive workload (CWL) is a critical measure of how mental effort relates to task performance, influencing both human-machine interaction and overall efficiency. As cognitive workload can significantly impact performance, especially in safety-critical environments like driving, it is essential to assess and manage it effectively. Electroencephalography (EEG) offers a valuable tool for this assessment by capturing real-time brain activity associated with cognitive load. The integration of artificial intelligence (AI), particularly deep learning (DL) techniques, has revolutionized CWL estimation by enabling precise and dynamic analysis of EEG data. DL models, such as Long Short-Term Memory (LSTM) networks and convolutional neural networks (CNNs), excel at extracting complex features from EEG signals, facilitating accurate predictions of cognitive workload. These advancements not only enhance adaptive systems that respond to varying cognitive demands but also contribute to safer and more efficient human-machine interactions. The use of EEG and AI in this field promises to refine cognitive workload management and improve performance across diverse applications, from vehicle safety systems to personalized learning environments.
+
+
   
   **Useful Resources:**
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9551143">Deep Learning Architectures Used In Eeg-Based Estimation Of Cognitive workload: A Review</a></li>
@@ -581,7 +596,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Working Memory</summary>
-  
+  Working memory is a fundamental cognitive function essential for managing and manipulating information over short periods, playing a critical role in both everyday tasks and complex decision-making processes. Disruptions or impairments in working memory can have profound effects on an individual's cognitive abilities and overall quality of life. Electroencephalography (EEG) provides a valuable tool for assessing working memory by capturing real-time brain activity associated with information retention and manipulation. Recent advancements in artificial intelligence (AI), particularly machine learning (ML) and deep learning (DL), have significantly enhanced the accuracy and efficiency of working memory evaluation. These AI methods can analyze EEG data to detect patterns indicative of working memory performance, identify relevant brain regions, and distinguish between different cognitive states with high precision. For instance, recent studies have demonstrated the effectiveness of DL models in decoding EEG signals related to working memory tasks, achieving notable accuracy and offering insights into the specific frequency bands and brain regions involved. This integration of EEG and AI not only facilitates early and objective assessment of working memory but also paves the way for developing innovative diagnostic tools and personalized interventions to support cognitive health.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809421008466">Analysis of working memory from EEG signals under different emotional states</a></li>
@@ -598,7 +614,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Memory Function</summary>
-  
+  Memory function is a crucial aspect of human cognition, enabling individuals to store, recall, and utilize information effectively. Disorders affecting memory, such as Alzheimer's disease, can severely impact daily functioning and quality of life. Recent advancements in electroencephalography (EEG) and artificial intelligence (AI) have opened new avenues for evaluating and enhancing memory performance. EEG captures detailed brain activity patterns associated with memory processes, including during learning tasks and sleep. By applying machine learning algorithms to EEG data, researchers can classify memory capacity with high precision, differentiate between strong and weak memory states, and identify specific neural markers of cognitive decline. Additionally, integrating EEG with AI technologies facilitates real-time monitoring and adaptive interventions, offering promising strategies for early diagnosis and management of memory-related disorders. As AI models, such as support vector machines, become more sophisticated, they enhance our ability to analyze complex EEG data, leading to improved diagnostic tools and personalized treatments for memory impairments.
+
   
   **Useful Resources:**
   <li><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003145004-11/performance-evaluation-machine-learning-classifiers-memory-assessment-using-eeg-signal-shipra-swati-mukesh-kumar"> Performance Evaluation of Machine Learning Classifiers for Memory Assessment Using EEG Signal </a></li>
@@ -613,7 +630,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Attention</summary>
-  
+  Attention is a critical aspect of human cognition, enabling individuals to focus on relevant information while ignoring distractions. Lapses in attention can have significant consequences, especially in activities like driving. Understanding and monitoring attention levels have gained considerable interest, particularly through the use of electroencephalogram (EEG) technology. EEG offers a non-invasive and portable means to track neural signals associated with attention, making it ideal for real-world applications. Recent studies have demonstrated that EEG, combined with advanced machine learning algorithms, can accurately predict states of attention and distraction. This capability opens the door for developing Brain-Computer Interfaces (BCIs) that can monitor attention in real-time, enhancing safety and performance in various contexts. The integration of EEG and artificial intelligence not only aids in better understanding cognitive processes but also holds potential for applications in virtual environments, rehabilitation, and beyond.
+
   
   **Useful Resources:**
   <li><a href="https://www.nature.com/articles/s41598-022-24417-w">Decoding the cognitive states of attention and distraction in a real-life setting using EEG</a></li>
@@ -629,7 +647,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Vigilance</summary>
-  
+  Vigilance, the ability to sustain attention and remain alert over extended periods, is crucial in various tasks, especially those that are monotonous and prolonged. This capacity can deteriorate over time, leading to a decrease in performance, a phenomenon known as vigilance decrement. Monitoring these changes is essential, particularly in fields like transportation and healthcare, where lapses in attention can have serious consequences. The use of electroencephalography (EEG) and artificial intelligence (AI) plays a pivotal role in this context, providing tools to measure and analyze vigilance levels by tracking brain activity. This approach not only enhances our understanding of how vigilance works but also opens up new possibilities for improving safety and performance in everyday tasks and specialized professional settings.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876022002720">Vigilance described by the time-on-task effect in EEG activity during a cued Go/NoGo task</a></li>
@@ -638,8 +657,7 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
   <li><a href="https://www.mdpi.com/1424-8220/21/16/5617"> Generalized Deep Learning EEG Models for Cross-Participant and Cross-Task Detection of the Vigilance Decrement in Sustained Attention Tasks </a></li>
   <li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.874757/full">Revisiting the Concept of Vigilance</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9335936">Cognitive Vigilance Enhancement Using Audio Stimulation of Pure Tone at 250 Hz</a></li>
-  li><a href="https">Estimating the Vigilance of High-Speed Rail Drivers Using a Stacking Ensemble Learning Method</a></li>
-  li><a href="https://ieeexplore.ieee.org/abstract/document/9420749">techniques</a></li>
+  li><a href="https://ieeexplore.ieee.org/abstract/document/9420749">Estimating the Vigilance of High-Speed Rail Drivers Using a Stacking Ensemble Learning Method</a></li>
   li><a href="https://ieeexplore.ieee.org/abstract/document/10122849">Driver Vigilance Detection Based on Limited EEG Signals</a></li>
   li><a href="https://link.springer.com/referenceworkentry/10.1007/978-981-15-2848-4_75-1">Vigilance Assessment and Enhancement</a></li>
 
@@ -648,7 +666,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Fatigue</summary>
-  
+  Fatigue, particularly mental fatigue, significantly impacts daily life, affecting both physical and mental well-being. In our fast-paced environment, the prevalence of mental fatigue has increased, underscoring the need for effective detection systems. Electroencephalogram (EEG) technology, which measures brain activity, has emerged as a valuable tool for identifying signs of fatigue. Combined with artificial intelligence (AI), EEG enables the development of automated systems that can accurately detect mental fatigue in real-time, even in demanding environments like construction sites or while operating machinery. These advancements not only enhance workplace safety by preventing accidents caused by fatigue but also offer potential applications in healthcare, enabling remote monitoring and timely interventions for individuals at risk of fatigue-related conditions. The integration of EEG and AI represents a promising frontier in understanding and managing fatigue, with significant implications for public health and safety.
+
   
   **Useful Resources:**
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10185973">Application of Artificial Intelligence Techniques for Brain–Computer Interface in Mental Fatigue Detection: A Systematic Review (2011–2022)</a></li>
@@ -666,7 +685,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Objective Performance Evaluation </summary>
-  
+  Objective performance evaluation is crucial in fields like laparoscopic surgery, where traditional subjective assessments may not adequately capture skill levels or identify areas for improvement. Utilizing technologies like electroencephalography (EEG) and eye-tracking, combined with artificial intelligence (AI), offers a more objective and precise measure of performance. This approach not only enhances the training and assessment of skills by providing quantifiable feedback but also ensures consistency in evaluations across different levels of expertise. The integration of EEG and AI in performance evaluation holds promise for various applications, from medical training to other domains requiring fine motor skills and decision-making, fostering a data-driven approach to skill enhancement and competency verification.
+
   
   **Useful Resources:**
   <li><a href="https://physionet.org/content/eeg-eye-gaze-for-fls-tasks/1.0.0/EYE_FLS/">Integration of Electroencephalogram and Eye-Gaze Datasets for Performance Evaluation in Fundamentals of Laparoscopic Surgery (FLS) Tasks</a></li>
@@ -681,7 +701,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Brain-Computer Interfaces (BCIs)</summary>
-  
+  Brain-Computer Interfaces (BCIs) are transformative technologies that enable direct communication between the brain and external devices, offering potential applications in communication, rehabilitation, and human-computer interaction. The integration of EEG, a non-invasive method for recording brain activity, with AI technologies, significantly enhances the functionality and accuracy of BCIs. This synergy is crucial for processing the complex neural data involved, particularly in overcoming challenges such as data scarcity and the need for real-time processing. BCIs hold promise not only in medical fields, aiding those with motor impairments, but also in broader applications where interpreting neural signals can improve interaction with technology. As BCIs continue to evolve, addressing issues like data artifact removal and computational complexity is key to their advancement and widespread adoption.
+
   
   **Useful Resources:**
     
@@ -712,7 +733,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Neurorehabilitation</summary>
-  
+  Neurorehabilitation is a rapidly evolving field focused on restoring lost motor and cognitive functions following neurological injuries or disorders. Central to this effort is the use of Brain-Computer Interfaces (BCIs), which utilize EEG to monitor and interpret brain activity, facilitating the recovery of motor skills and providing critical assistance in rehabilitation. The integration of AI technologies with BCIs enhances the precision and adaptability of therapeutic interventions, offering personalized treatment options and improving patient outcomes. This interdisciplinary approach leverages advanced neuroimaging and AI-driven robotics, marking a significant advancement in the therapeutic landscape and providing new avenues for research and clinical practice in neurorehabilitation.
+
   
   **Useful Resources:**
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10268416">A Survey of EEG and Machine Learning-Based Methods for Neural Rehabilitation
@@ -734,7 +756,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Neurolinguistics</summary>
-  
+  Neurolinguistics explores the intricate relationship between language and the brain, aiming to understand how neural processes underpin language functions and disorders. Electroencephalography (EEG) plays a crucial role in this field by providing real-time insights into brain activity associated with language processing and emotional responses. The integration of artificial intelligence (AI) with EEG further enhances our understanding by enabling advanced analysis of neural data, leading to improvements in speech recognition, language prediction, and bilingualism studies. AI-driven models can decode and reconstruct speech from imagined neural activity, offering new possibilities for communication and cognitive rehabilitation. This synergy between EEG and AI is pushing the boundaries of neurolinguistics, fostering innovative approaches to studying and supporting language capabilities in both healthy and impaired individuals.
+
   
   **Useful Resources:**
   <li><a href="https://www.nature.com/articles/s41599-023-01926-1">Emotional processing in bilinguals: a systematic review aimed at identifying future trends in neurolinguistics</a></li>
@@ -758,7 +781,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Lie Detection</summary>
-  
+  Lie detection has become increasingly crucial in a world where identifying deception can impact security and justice. Recent advancements have focused on leveraging electroencephalography (EEG) to discern between truthful and deceptive responses by analyzing brain activity patterns. EEG offers real-time insights into neural responses related to deception, which can be further enhanced by artificial intelligence (AI) techniques. AI-driven methods, such as deep learning and multimodal analysis, have shown promise in improving lie detection accuracy by integrating EEG data with other physiological and behavioral signals. These advancements not only help refine the accuracy of detecting deceit but also make the process more efficient and less reliant on traditional, often invasive methods. The combination of EEG and AI thus represents a significant step forward in developing reliable and practical solutions for lie detection.
+
   
   **Useful Resources:**
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-3177-4_7">Comprehensive Review of Lie Detection in Subject Based Deceit Identification</a></li>
@@ -773,7 +797,8 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 <details>
   <summary>Sensory Neuroscience</summary>
-  
+  Sensory neuroscience explores how the brain processes and integrates information from our senses, providing crucial insights into how we perceive and interact with the world. Electroencephalography (EEG) plays a vital role in this field by capturing real-time brain activity related to sensory experiences, such as visual, auditory, and tactile stimuli. By analyzing EEG signals, researchers can investigate how different sensory modalities are processed and how they influence cognitive and emotional states. The integration of artificial intelligence (AI) with EEG further enhances our ability to decode complex neural patterns, improving our understanding of sensory processing and enabling the development of advanced brain-computer interfaces. These technologies hold promise for applications ranging from enhancing virtual reality experiences to diagnosing sensory disorders, offering a deeper grasp of the intricate workings of the human brain.
+
   
   **Useful Resources:**
   <li><a href="https://iopscience.iop.org/article/10.1088/1741-2552/acb9be/meta">EEG-based detection of modality-specific visual and auditory sensory processing
@@ -838,7 +863,8 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
 
 <details>
   <summary>Functional Connectivity</summary>
-  
+  Functional connectivity in the brain refers to how different regions interact and communicate, creating a complex network of neural relationships. This understanding is crucial for uncovering how various brain areas work together to support cognitive functions, behavior, and emotional states. Electroencephalography (EEG) plays a vital role in this field due to its ability to capture the brain's electrical activity with high temporal precision. This temporal resolution makes EEG particularly useful for studying dynamic changes in brain connectivity. Additionally, artificial intelligence (AI) enhances the analysis of EEG data by providing advanced tools for decoding complex connectivity patterns and detecting abnormalities. Together, EEG and AI offer powerful methods for mapping brain networks, understanding disruptions in connectivity related to neurological and psychological disorders, and potentially guiding interventions and treatments.
+
   
   **Useful Resources:**
   <li><a href="https://www.mdpi.com/2306-5354/10/3/372">Connectivity Analysis in EEG Data: A Tutorial Review of the State of the Art and Emerging Trends
@@ -860,7 +886,8 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
 
 <details>
   <summary>Developmental Neuroscience</summary>
-  
+  Developmental neuroscience explores the evolution of the brain from infancy through adulthood, focusing on how changes in brain activity underpin cognitive and behavioral development. Electroencephalography (EEG) plays a pivotal role in this field by providing real-time insights into neural activity and developmental progress. It can reveal significant shifts in brain function as individuals grow, making it a valuable tool for studying cognitive development and identifying developmental disorders. Recent advancements in deep learning algorithms, such as bidirectional long short-term memory (BLSTM) models, have enhanced our ability to classify and analyze EEG data, offering promising avenues for tracking brain maturation and diagnosing neurodevelopmental conditions. By integrating EEG with AI, researchers can uncover detailed patterns of brain development and better understand the neural mechanisms underlying developmental changes and disorders.
+
   
   **Useful Resources:**
 
@@ -877,7 +904,8 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
 
 <details>
   <summary>Personalized Learning</summary>
-  
+  Personalized learning aims to tailor educational experiences to individual needs, enhancing student engagement and achievement. Recent advancements in electroencephalography (EEG) and artificial intelligence (AI) have significantly improved our ability to support personalized learning. EEG provides real-time insights into brain activity, allowing educators to monitor cognitive states and adapt teaching methods accordingly. AI enhances this process by analyzing EEG data to identify patterns in attention, focus, and learning progress, enabling more effective and responsive educational interventions. This integration of EEG and AI helps create customized learning environments that can better address each student's unique needs and learning preferences, ultimately fostering a more effective and engaging educational experience.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1053811923005189">Is neuroimaging ready for the classroom? A systematic review of hyperscanning studies in learning</a></li>
@@ -891,8 +919,8 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
 
 
 <details>
-  <summary>Skill Acquisition and Training</summary>
-  
+  <summary>Skill Acquisition</summary>
+  Skill acquisition and training are crucial for mastering new abilities and improving performance across various domains. Recent advancements in electroencephalography (EEG) and artificial intelligence (AI) are revolutionizing how we evaluate and enhance skill development. EEG provides real-time insights into brain activity during skill acquisition, helping to identify the neural changes associated with learning and expertise. AI leverages this data to develop sophisticated models that can assess skill levels, predict performance, and offer personalized feedback. By combining EEG with AI, we can gain a deeper understanding of the learning process and optimize training programs, leading to more effective skill development and performance improvement in areas such as surgery, sports, and cognitive tasks.
   
   **Useful Resources:** (Frontiers in Neuroscience works alot in this field)
   <li><a href="https://link.springer.com/article/10.1007/s00464-024-11049-6">Classification of subtask types and skill levels in robot-assisted surgery using EEG, eye-tracking, and machine learning</a></li>
@@ -912,6 +940,7 @@ Within the scope of neuroergonomics, one of the primary studies carried out to u
 
 <details>
   <summary>Neurofeedback Training</summary>
+  Neurofeedback training is an innovative approach that leverages real-time feedback to help individuals modulate their brain activity and enhance cognitive and emotional functioning. By using electroencephalography (EEG), neurofeedback provides direct insights into brainwave patterns, enabling tailored interventions aimed at improving various mental processes, such as memory, attention, and mood. Advances in EEG technology and artificial intelligence (AI) have significantly enhanced neurofeedback's effectiveness, allowing for more precise and individualized training protocols. AI algorithms analyze EEG data to optimize feedback mechanisms, improving the efficacy of neurofeedback in addressing conditions like depression, ADHD, and cognitive impairments. As neurofeedback continues to evolve, it holds great promise for personalized brain training and therapeutic interventions, offering new ways to support mental health and cognitive development.
 
   
   **Useful Resources:**
@@ -937,7 +966,8 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Emotional State Analysis</summary>
-  
+  Understanding human emotions is essential for various aspects of life, including decision-making, communication, and mental well-being. Emotions can be detected through various methods, but physiological signals like those from electroencephalography (EEG) provide valuable insights due to their direct link to brain activity. EEG’s high temporal resolution allows for detailed analysis of emotional states, though challenges such as signal variability and the need for robust feature extraction persist. Advances in artificial intelligence (AI), particularly through deep learning techniques, are addressing these challenges by enhancing the accuracy and reliability of emotion recognition from EEG data. By integrating AI with EEG, researchers are improving our ability to monitor and interpret emotional states in real-time, leading to better applications in mental health, human-computer interaction, and personalized experiences.
+
   
   **Useful Resources:**
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523009150">Emotion recognition in EEG signals using deep learning methods: A review</a></li>
@@ -963,28 +993,28 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Immersive Gaming and Entertainment</summary>
-  
+  Immersive gaming and entertainment have significantly advanced with the development of virtual reality (VR) and head-mounted displays, providing users with highly engaging and interactive experiences. The integration of electroencephalography (EEG) into these immersive environments allows for real-time analysis of brain activity, offering deeper insights into player engagement, cognitive workload, and emotional responses. EEG provides a direct measure of brain function, enhancing our understanding of how different gaming experiences impact mental states. When combined with artificial intelligence (AI), particularly through advanced algorithms and machine learning techniques, EEG data can be analyzed to personalize and improve gaming experiences. This fusion of EEG and AI not only enhances the realism and responsiveness of VR games but also opens new possibilities for optimizing player experiences and designing more engaging and effective gaming environments.
+
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10064320">Neural Applications Using Immersive Virtual Reality: A Review on EEG Studies</a></li>
-  <li><a href=""></a></li>
   <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-3-031-23161-2_176">EEG as an Input for Virtual Reality</a></li>
   <li><a href="https://www.worldscientific.com/doi/abs/10.4015/S1016237224500224">MENTAL WORKLOAD ASSESSMENT OF GAMERS’ EEG WITH MULTI-DOMAIN FEATURE-BASED COGNITIVE MODEL AND ITS VALIDATION</a></li>
   <li><a href="https://www.mdpi.com/2079-9292/13/11/2043">Assessing the Effects of Various Gaming Platforms on Players’ Affective States and Workloads through Electroencephalogram </a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10589391">Analysis Learning Model With Biometric Devices for Business Simulation Games: Brazilian Case Study</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10049421">Virtual Reality Cognitive Gaming Based on Brain Computer Interfacing: A Narrative Review</a></li>
   <li><a href="">Classification of VR-Gaming Difficulty Induced Stress Levels using Physiological (EEG & ECG) Signals and Machine Learning</a></li>
-  <li><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.16873471.v1"></a></li>
+  <li><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.16873471.v1">Classification of VR-Gaming Difficulty Induced Stress Levels using Physiological (EEG & ECG) Signals and Machine Learning</a></li>
   <li><a href="https://www.mdpi.com/1999-5903/15/8/264"> Mapping EEG Alpha Activity: Assessing Concentration Levels during Player Experience in Virtual Reality Video Games </a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-61569-6_5">The Influence of Educational and Entertainment Videos on Children’s Frontal EEG Activity: A Case Study</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26">Research on Brain-Computer Interfaces in the Entertainment Field</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+
 
 </details>
 
 
 <details>
   <summary>Meditation and Mindfulness</summary>
-  
+  Meditation and mindfulness are powerful practices aimed at enhancing mental well-being and cognitive function. These techniques have been increasingly applied in clinical settings to improve stress management, emotional regulation, and overall mental health. Electroencephalogram (EEG) technology plays a crucial role in understanding how meditation influences brain activity, offering insights into neural changes associated with mindfulness practices. By analyzing EEG data, researchers can observe how meditation affects brain rhythms and connectivity, revealing shifts in cognitive and emotional states. The integration of artificial intelligence (AI) into this research further enhances the ability to interpret complex EEG signals, facilitating a deeper understanding of meditation's impact and potentially leading to more personalized and effective mindfulness interventions.
+
   <li><a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1033420/full">EEG-based investigation of effects of mindfulness meditation training on state and trait by deep learning and traditional machine learning
 </a></li>
   <li><a href="https://academic.oup.com/cercor/article-abstract/34/7/bhae288/7716272">Enhancing specialization of attention-related EEG power and phase synchronism brain patterns by meditation</a></li>
@@ -997,8 +1027,9 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Smart Home Systems</summary>
-  
-  <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-7456-6_10">Smart Home</a></li>
+  Smart home systems are revolutionizing how we interact with our living environments by automating tasks and improving convenience. The integration of Brain-Computer Interface (BCI) technology, particularly using Electroencephalography (EEG), adds a groundbreaking dimension to smart home control by enabling users to operate devices through brain signals. This approach is especially beneficial for individuals with disabilities or the elderly, providing them with a novel method to control their surroundings. By combining EEG with artificial intelligence (AI), such as deep learning models, these systems can accurately interpret mental commands and translate them into actions, enhancing both functionality and user experience. The use of AI in this context not only refines the control processes but also tailors them to individual needs, opening up new possibilities for personalized and accessible smart home technology.
+
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-7456-6_10">Development of Smart Home System Based on EEG</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-42622-3_51">Brain-Computer-Interface (BCI) Based Smart Home Control Using EEG Mental Commands</a></li>
   <li><a href="https://link.springer.com/article/10.1007/s12652-022-04469-6">A hybrid EEG and head motion system for smart home control for disabled people</a></li>
   <li><a href="https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1167410/full">Eliciting brain waves of people with cognitive impairment during meditation exercises using portable electroencephalography in a smart-home environment: a pilot study
@@ -1011,11 +1042,12 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Wearable Technology</summary>
-  
+  Wearable technology is rapidly transforming our ability to monitor and interact with our health and well-being in real-time. One significant advancement in this field is the integration of Electroencephalography (EEG) with wearable devices, which allows for non-invasive and continuous monitoring of brain activity. This technology holds great promise for assessing brain health, detecting emotional states, and enhancing cognitive functions by providing immediate and accurate feedback. The use of artificial intelligence (AI) further amplifies these benefits by enabling sophisticated analysis of EEG data, such as estimating brain age, recognizing emotional responses, and improving personalized interventions. By combining EEG with AI, wearable technology can offer more insightful and actionable data, making it a powerful tool for both everyday health management and clinical applications.
+
   <li><a href="https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1340732/full">Brain-age estimation with a low-cost EEG-headset: effectiveness and implications for large-scale screening and brain optimization
 </a></li>
   <li><a href="https://www.mdpi.com/1424-8220/23/5/2387">Online Learning for Wearable EEG-Based Emotion Classification </a></li>
-  <li><a href="https://www.mdpi.com/1424-8220/23/3/1255">https://www.mdpi.com/2079-6374/13/10/930</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/3/1255"> An Efficient Machine Learning-Based Emotional Valence Recognition Approach Towards Wearable EEG</a></li>
   <li><a href="https://www.mdpi.com/2079-6374/13/10/930"> Application and Development of EEG Acquisition and Feedback Technology: A Review </a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1386505623000436">Generalizable machine learning for stress monitoring from wearable devices: A systematic literature review</a></li>
   <li><a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1220688/full">Use of wearable devices in the teaching-learning process: a systematic review of the literature
@@ -1029,7 +1061,8 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Human-Computer Interaction (HCI)</summary>
-  
+  Human-Computer Interaction (HCI) is an evolving field focused on improving the ways people interact with digital systems and technologies. As HCI techniques advance, particularly with the integration of Extended Reality (XR) technologies like Virtual Reality (VR) and Augmented Reality (AR), understanding and enhancing user experiences becomes increasingly crucial. Electroencephalography (EEG) plays a significant role in this context by providing insights into users' cognitive and emotional states, which can be used to refine and personalize interactions. The application of artificial intelligence (AI) in analyzing EEG data further enhances this by enabling more accurate and dynamic recognition of user intentions and emotions. By combining EEG with AI, HCI systems can become more intuitive and responsive, improving overall user experience and efficiency in various applications, from training and learning to emotional recognition and intent prediction.
+
   <li><a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJBM.2024.135160">Recent trends and challenges in human computer interaction using automatic emotion recognition: a review</a></li>
   <li><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2022.2116530">A Systematic Review of Human–Computer Interaction (HCI) Research in Medical and Other Engineering Fields</a></li>
   <li><a href="https://dl.acm.org/doi/full/10.1145/3582272">A Survey on Measuring Cognitive Workload in Human-Computer Interaction</a></li>
@@ -1041,7 +1074,8 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Neuromarketing and Advertisement</summary>
-  
+  Neuromarketing is an innovative field focused on decoding the intricate processes behind consumer decision-making and behavior. By leveraging techniques like Electroencephalography (EEG), businesses can gain a deeper understanding of how consumers respond to marketing stimuli, allowing them to create more engaging and effective advertisements. EEG provides valuable insights into the neural responses that underlie consumer preferences and reactions, offering a direct window into the cognitive and emotional aspects of decision-making. The integration of artificial intelligence (AI) with EEG further enhances this capability by analyzing complex brain data to predict consumer behavior more accurately. This combination enables companies to optimize their marketing strategies, tailor their campaigns to better align with consumer needs, and ultimately achieve a competitive edge in the marketplace.
+
   <li><a href="https://link.springer.com/article/10.1186/s40708-024-00229-8">A systematic review on EEG-based neuromarketing: recent trends and analyzing techniques</a></li>
   <li><a href="https://journals.sagepub.com/doi/full/10.1177/14707853221112622">A practical review of electroencephalography’s value to consumer research</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1877050923013972">The use of electroencephalography (EEG) in a study into the effectiveness of advertising communication</a></li>
@@ -1056,7 +1090,8 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Neuroaesthetics</summary>
-  
+  Neuroaesthetics is a burgeoning field that explores the neural foundations of aesthetic experiences, such as those encountered in art, music, and dance. By investigating how the brain responds to beauty and creativity, this discipline bridges the gap between neuroscience and the arts, offering insights into how and why certain artistic experiences evoke specific emotional and cognitive responses. Electroencephalography (EEG) plays a crucial role in neuroaesthetics by providing real-time data on brain activity related to aesthetic appreciation and creative processes. This technology allows researchers to map brain responses to various stimuli, revealing how different aspects of art affect our neural pathways. The integration of artificial intelligence (AI) with EEG further enhances the ability to analyze complex brain data, uncovering patterns and predicting individual preferences with greater accuracy. Together, EEG and AI offer powerful tools for deepening our understanding of how aesthetic experiences influence mental states and contribute to personal and therapeutic growth.
+
   <li><a href="https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1341790/full">Ecological decoding of visual aesthetic preference with oscillatory electroencephalogram features—A mini-review
 </a></li>
   <li><a href="https://dl.acm.org/doi/abs/10.1145/3640824.3640839">Artificial Aesthetics: Bridging Neuroaesthetics and Machine Learning</a></li>
@@ -1065,8 +1100,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
   <li><a href="https://papers.cumincad.org/data/works/att/caadria2024_486.pdf">EMPIRICAL INSIGHTS INTO ARCHITECTURAL AESTHETICS: A NEUROSCIENTIFIC PERSPECTIVE</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S0149763423001665">The Neuroscience of Dance: A Conceptual Framework and Systematic Review</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2095263523000912">Contemplative neuroaesthetics and architecture: A sensorimotor exploration</a></li>
-  <li><a href="">Exploring Methodological Approaches of Experimental Studies in the Field of Neuroarchitecture: A Systematic Review</a></li>
-  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/19375867221133135"></a></li>
+  <li><a href="https://journals.sagepub.com/doi/abs/10.1177/19375867221133135">Exploring Methodological Approaches of Experimental Studies in the Field of Neuroarchitecture: A Systematic Review</a></li>
   <li><a href="https://journals.sagepub.com/doi/full/10.1177/10892680241260840">Neurodynamics of Relational Aesthetic Engagement in Creative Arts Therapies</a></li>
   <li><a href="https://link.springer.com/article/10.1007/s11571-022-09821-2">Cross-subject aesthetic preference recognition of Chinese dance posture using EEG</a></li>
 </details>
@@ -1074,7 +1108,8 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>User Experience</summary>
-  
+  User experience (UX) focuses on understanding and enhancing how individuals interact with technology and digital platforms, aiming to improve satisfaction and efficiency. Electroencephalography (EEG) plays a crucial role in this field by capturing real-time brain activity, which provides deep insights into users' cognitive and emotional responses during interactions with systems. This data allows researchers and designers to assess and refine UX beyond traditional self-reports and behavioral observations. By integrating EEG with artificial intelligence (AI), it becomes possible to analyze complex patterns in brain activity, uncovering nuanced aspects of user experience and enabling the creation of more intuitive and responsive interfaces. This combination of EEG and AI offers a powerful approach to optimizing user interactions and ensuring that digital platforms meet users' needs effectively.
+
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2451958824000149">Evaluating chatbot user experience (UX) through electroencephalography measures: A systematic literature review</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10462893">Evaluation of User Interface, User Experience, and Usability in Software Through Electroencephalography (EEG) Signal Detection: A Mapping Review</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10035957">User Experience: A Bibliometric Review of the Literature</a></li>
@@ -1084,6 +1119,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Workforce Monitoring</summary>
+  Workforce monitoring involves assessing employees' performance, well-being, and productivity to enhance workplace efficiency and satisfaction. Electroencephalography (EEG) is increasingly being utilized in this domain to provide real-time insights into cognitive and emotional states, which are crucial for understanding factors affecting job performance and stress levels. By measuring brain activity, EEG can reveal how individuals respond to various work environments and tasks, offering a more comprehensive view of mental workload and engagement. When combined with artificial intelligence (AI), EEG data can be analyzed to identify patterns and predict issues such as burnout or cognitive overload. This integration of EEG and AI not only enables more accurate assessments of workforce dynamics but also supports the development of personalized interventions to improve job satisfaction and productivity, making workforce monitoring a more effective and proactive process.
 
 </details>
 
@@ -1091,35 +1127,19 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 
 <details>
   <summary>Biometric Authentication</summary>
-  
+  Biometric authentication is a method of verifying individuals' identities based on unique physiological traits, and EEG-based authentication is gaining traction as a promising alternative to traditional methods. EEG, which measures brain activity, offers a distinct biometric signature that is difficult to forge or replicate. However, EEG signals can be affected by noise and artifacts, necessitating sophisticated processing and analysis to ensure accuracy. Advances in machine learning, particularly deep learning, have significantly enhanced the ability to process and interpret EEG data for authentication purposes. These technologies enable more reliable and efficient recognition of individuals by learning complex patterns in brain activity. Transfer learning further improves performance by applying knowledge from pre-trained models to new EEG data, making authentication systems more robust and adaptable. Combining EEG with AI-driven methods not only enhances security but also provides a more personalized and secure approach to identity verification.
+
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10536762">EEG-based Biometric Authentication Using Machine and Deep Learning Approachs : A Review</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10577965">Systematic Review of Brain-Computer Interface-Based User Authentication System: Trends, Challenges, and Directions</a></li>
   <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.345">EEG-based biometric authentication system using convolutional neural network for military applications</a></li>
   <li><a href="https://link.springer.com/article/10.1186/s40708-023-00198-4">An evaluation of transfer learning models in EEG-based authentication</a></li>
   <li><a href="https://link.springer.com/article/10.1007/s00521-022-07795-0">Biometric identification system using EEG signals</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10058960">A Review of EEG-Based User Authentication: Trends and Future Research Directions</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
 
-
-</details>
-
-
-<details>
-  <summary>General Field</summary>
-  
-  <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-981-16-5540-1_78?fromPaywallRec=true">Deep Learning Methods for EEG Neural Classification</a></li>
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/9626707">EEG signal analysis using deep learning: A systematic literature review</a></li>
-  <li><a href="file:///home/mahdi/Downloads/s12021-022-09572-9.pdf">How Machine Learning is Powering Neuroimaging to Improve Brain Health</a></li>
-  <li><a href="https://theses.hal.science/tel-03602771/">Enabling real-world EEG applications with deep learning</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href="https://link.springer.com/book/10.1007/978-3-030-69717-4">Advanced Machine Learning Technologies and Applications </a></li>
-  <li><a href="https://link.springer.com/referencework/10.1007/978-981-16-5540-1">Handbook of Neuroengineering </a></li>
 
 
 </details>
+
 
 <!-- CONTRIBUTING -->
 ## CONTRIBUTING
