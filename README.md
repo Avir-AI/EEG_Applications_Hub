@@ -48,7 +48,7 @@
         <li><a href="#what-are-the-common-classifiers">What Are the Common Classifiers?</a></li>
       </ul>
     </li>
-    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">List of Artificial Intelligence Applications in Electroencephalography</a></li>
+    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">🔶List of Artificial Intelligence Applications in Electroencephalography🔶</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -1012,13 +1012,15 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 <details>
   <summary>Wearable Technology</summary>
   
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1340732/full">Brain-age estimation with a low-cost EEG-headset: effectiveness and implications for large-scale screening and brain optimization
+</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/5/2387">Online Learning for Wearable EEG-Based Emotion Classification </a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/3/1255">https://www.mdpi.com/2079-6374/13/10/930</a></li>
+  <li><a href="https://www.mdpi.com/2079-6374/13/10/930"> Application and Development of EEG Acquisition and Feedback Technology: A Review </a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1386505623000436">Generalizable machine learning for stress monitoring from wearable devices: A systematic literature review</a></li>
+  <li><a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1220688/full">Use of wearable devices in the teaching-learning process: a systematic review of the literature
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S001048252200796X">Wearable electroencephalography and multi-modal mental state classification: A systematic literature review☆</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10025407">Diversity and Suitability of the State-of-the-Art Wearable and Wireless EEG Systems Review</a></li>
 
 </details>
@@ -1103,9 +1105,24 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 </details>
 
 
+<details>
+  <summary>General Field</summary>
+  
+  <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-981-16-5540-1_78?fromPaywallRec=true">Deep Learning Methods for EEG Neural Classification</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9626707">EEG signal analysis using deep learning: A systematic literature review</a></li>
+  <li><a href="file:///home/mahdi/Downloads/s12021-022-09572-9.pdf">How Machine Learning is Powering Neuroimaging to Improve Brain Health</a></li>
+  <li><a href="https://theses.hal.science/tel-03602771/">Enabling real-world EEG applications with deep learning</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href="https://link.springer.com/book/10.1007/978-3-030-69717-4">Advanced Machine Learning Technologies and Applications </a></li>
+  <li><a href="https://link.springer.com/referencework/10.1007/978-981-16-5540-1">Handbook of Neuroengineering </a></li>
+
+
+</details>
 
 <!-- CONTRIBUTING -->
-## Datasets
+## CONTRIBUTING
 <li><a href="https://ieeexplore.ieee.org/abstract/document/10176120">A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models</a></li>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
