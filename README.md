@@ -49,10 +49,11 @@
       </ul>
     </li>
     <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">🔶List of Artificial Intelligence Applications in Electroencephalography🔶</a></li>
+    <li><a href="#datasets">EEG Datasets</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    
   </ol>
 </details>
 
@@ -1136,14 +1137,27 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
   <li><a href="https://link.springer.com/article/10.1007/s00521-022-07795-0">Biometric identification system using EEG signals</a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10058960">A Review of EEG-Based User Authentication: Trends and Future Research Directions</a></li>
 
-
-
 </details>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Datasets
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [EEG-Datasets Repository by meagmohit](https://github.com/meagmohit/EEG-Datasets)
+* [ElectrophysiologyData Repository by TomDonoghue](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
+* [OpenNeuroDatasets](https://github.com/orgs/OpenNeuroDatasets/repositories?type=all)
+* [A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10176120l)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 <!-- CONTRIBUTING -->
 ## CONTRIBUTING
-<li><a href="https://ieeexplore.ieee.org/abstract/document/10176120">A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models</a></li>
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -1164,34 +1178,13 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Mahdi Abdollahzadeh - [@LinkedIn](https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203) - business.mahdi.ab@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [EEG Applications Hub](https://github.com/Avir-AI/EEG_Applications_Hub)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -1199,19 +1192,18 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
+[contributors-url]: https://github.com/Avir-AI/EEG_Applications_Hub/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
+[forks-url]: https://github.com/Avir-AI/EEG_Applications_Hub/network/members
+[stars-shield]: https://img.shields.io/github/stars/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
+[stars-url]: https://github.com/Avir-AI/EEG_Applications_Hub/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
+[issues-url]: https://github.com/Avir-AI/EEG_Applications_Hub/issues
+[license-shield]: https://img.shields.io/github/license/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
+[license-url]: https://github.com/Avir-AI/EEG_Applications_Hub/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
