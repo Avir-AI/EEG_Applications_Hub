@@ -1226,7 +1226,7 @@ Project Link: [EEG Applications Hub](https://github.com/Avir-AI/EEG_Applications
 I would like to express my sincere gratitude to the following individuals and organizations for their support and contributions to this project:
 
 ### Mentors and Advisors
-- **[Ramin Toosi](ramintoosi.github.io)**: For his invaluable guidance and insights.
+- **[Ramin Toosi](https://ramintoosi.github.io/)**: For his invaluable guidance and insights.
 - **[Alireza Hosseini](https://arhosseini77.github.io/)**: For his steadfast support and motivation throughout the development of this project.
 
 ### Organizations
