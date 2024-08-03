@@ -20,8 +20,11 @@
   <p align="center">
     A Comprehensive List of Artificial Intelligence Applications in Electroencephalography
     <br />
+    This list was last updated in August 2024
+    <br />
     <a href="https://github.com/Avir-AI"><strong>Explore other projects »</strong></a>
     <br />
+    <br />    
     <br />
   </p>
 </div>
@@ -53,7 +56,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -66,7 +69,6 @@ This meticulously curated list aims to showcase the latest breakthroughs in the 
 
 Whether you're a researcher, student, or hobbyist, this guide is designed to serve as a valuable resource for your endeavors. We hope you find it informative, inspiring, and useful in exploring the vast potential of EEG-AI applications.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Introduction to the Field
@@ -103,6 +105,7 @@ Image by DC Studio on Freepik
         - Power and Phase: Power is the strength of frequency-band-specific activity and phase id the timing of it.
           - They are discrete elements of a dimension because they provide largely independent information.
           - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### What Are the Applications of EEG-AI in Various Fields?   
 Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
@@ -115,6 +118,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 7. **Consumer Applications:** Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
 8. **Marketing and Consumer Behavior:** Analyzing consumer responses and decision-making processes to optimize advertising and product design.
 9. **Military and Security:** Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### What Are the Common Preprocessing Methods?
 - Filtering (FIR & IIR): Fundamental for removing noise and isolating frequency bands.
@@ -127,42 +131,45 @@ Signal processing and machine learning techniques are crucial for accurately int
 - Functional Connectivity: Gaining importance for studying interactions between different brain regions.
 - Topological Network Analysis: Used for understanding brain network properties, but less common.
 - Average Filtering: Basic noise reduction technique, but less sophisticated than others.
-- Synchronization Likelihood Features: Specialized for connectivity analysis, but not as commonly used.
 - Biomarkers Based Features: Emerging field focusing on disease-specific features, gaining traction.
+- Synchronization Likelihood Features: Specialized for connectivity analysis, but not as commonly used.
 - RVMD (Robust Variational Mode Decomposition): Advanced signal decomposition technique, less widespread.
 - Network Based Fuzzy Learning: Specialized method, not widely adopted.
 - SLBP (Symmetrically Weighted Local Binary Patterns): Niche method for texture-like feature extraction, less common.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### What Are the Common Cross Validation Methods?
 - 5-fold Cross Validation
 - 10-fold Cross Validation
 - LOSO: Leave One Subject Out
 - LOTO: Leave One Trial Out
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### What Are the Common Classifiers?
 **Machine Learning**
-- SVM - Support Vector Machine
-- KNN - K-Nearest Neighbors
-- DT - Decision Tree
-- RF - Random Forest
-- Logit Boost - LogitBoost (a boosting algorithm for binary classification)
-- ELM - Extreme Learning Machine
-- LDA - Linear Discriminant Analysis
-- N-TSK - Neuro-Fuzzy Takagi-Sugeno-Kang
+- [SVM](https://ieeexplore.ieee.org/abstract/document/10373233) - Support Vector Machine
+- [KNN](https://link.springer.com/article/10.1186/s40708-024-00220-3) - K-Nearest Neighbors
+- [DT](https://ieeexplore.ieee.org/abstract/document/10512896) - Decision Tree
+- [RF](https://www.sciencedirect.com/science/article/abs/pii/S0306987724001488) - Random Forest
+- [Logit Boost](https://dr.library.brocku.ca/handle/10464/17817) - a boosting algorithm for binary classification
+- [ELM](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008333) - Extreme Learning Machine
+- [LDA](https://www.mdpi.com/2076-3425/14/3/196) - Linear Discriminant Analysis
+- [TSK](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000424) - Takagi–Sugeno–Kang
 
 **Deep Learning:**
-- CNN - Convolutional Neural Network
-- Deep ConvNet - Deep Convolutional Network
-- DP CNN - DeepPyramid Convolutional Neural Network 
-- LSTM RNN - Long Short-Term Memory Recurrent Neural Network
-- SNN - Spiking Neural Network / Siamese Neural Network
-- MLP - Multilayer Perceptron
-- GRU - Gated Recurrent Unit
-- Conv-AE - Convolutional Autoencoder
-- EEGNet - A specific Convolutional Neural Network architecture designed for EEG signal classification
-- AlexNet - A deep Convolutional Neural Network architecture named after Alex Krizhevsky
-- ViT - Vision Transformer
-- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers
+- [CNN](https://link.springer.com/article/10.1007/s11831-023-09920-1) - Convolutional Neural Network
+- [Deep ConvNet](https://www.sciencedirect.com/science/article/abs/pii/S1746809424007031) - Deep Convolutional Network
+- [DP CNN](https://www.sciencedirect.com/science/article/pii/S2405844023020650) - DeepPyramid Convolutional Neural Network 
+- [LSTM RNN](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009337) - Long Short-Term Memory Recurrent Neural Network
+- [SNN](https://www.sciencedirect.com/science/article/abs/pii/S235264832100074X) - Spiking Neural Network / Siamese Neural Network
+- [MLP](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385434/1TOcnOCVMFW) - Multilayer Perceptron
+- [EEGNet](https://www.sciencedirect.com/science/article/abs/pii/S0026269224000466) - A specific Convolutional Neural Network architecture designed for EEG signal classification
+- [Conv-AE](https://www.worldscientific.com/doi/10.1142/S0129065724500400) - Convolutional Autoencoder
+- [GRU](https://www.nature.com/articles/s41598-024-58886-y) - Gated Recurrent Unit
+- [AlexNet](https://www.sciencedirect.com/science/article/pii/S0010482524005468) - A deep Convolutional Neural Network architecture named after Alex Krizhevsky
+- [ViT](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1275142/full) - Vision Transformer
+- [ResNet18](https://ieeexplore.ieee.org/abstract/document/10580396) - A version of the Residual Network (ResNet) architecture with 18 layers
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## List of Artificial Intelligence Applications in Electroencephalography
@@ -1140,7 +1147,7 @@ Cognitive rehabilitation in a case of traumatic brain injury using EEG-based neu
 </details>
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- Datasets -->
 ## Datasets
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -1152,7 +1159,17 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Useful Resources -->
+## Useful Resources
 
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [EEG-Datasets Repository by meagmohit](https://github.com/meagmohit/EEG-Datasets)
+* [ElectrophysiologyData Repository by TomDonoghue](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
+* [OpenNeuroDatasets](https://github.com/orgs/OpenNeuroDatasets/repositories?type=all)
+* [A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10176120l)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -1177,18 +1194,32 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
 ## Contact
 
-Mahdi Abdollahzadeh - [@LinkedIn](https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203) - business.mahdi.ab@gmail.com
+Mahdi Abdollahzadeh - [@LinkedIn](https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203) - research.mahdi.ab@gmail.com
 
 Project Link: [EEG Applications Hub](https://github.com/Avir-AI/EEG_Applications_Hub)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
+I would like to express my sincere gratitude to the following individuals and organizations for their support and contributions to this project:
+
+### Mentors and Advisors
+- **[Ramin Toosi](https://github.com/ramintoosi)**: For his invaluable guidance and insights.
+- **[Alireza Hosseini](https://github.com/Arhosseini77)**: For his steadfast support and motivation throughout the development of this project.
+
+### Organizations
+- **[Avir AI Center](https://github.com/Avir-AI)**: For providing the essential resources and space necessary to conduct this research.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -1204,19 +1235,3 @@ Project Link: [EEG Applications Hub](https://github.com/Avir-AI/EEG_Applications
 [license-url]: https://github.com/Avir-AI/EEG_Applications_Hub/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
