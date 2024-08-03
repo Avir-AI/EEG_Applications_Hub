@@ -1264,6 +1264,6 @@ I would like to express my sincere gratitude to the following individuals and or
 [issues-shield]: https://img.shields.io/github/issues/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
 [issues-url]: https://github.com/Avir-AI/EEG_Applications_Hub/issues
 [license-shield]: https://img.shields.io/github/license/Avir-AI/EEG_Applications_Hub.svg?style=for-the-badge
-[license-url]: https://github.com/Avir-AI/EEG_Applications_Hub/blob/main/LICENSE
+[license-url]: https://github.com/Avir-AI/EEG_Applications_Hub/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203
