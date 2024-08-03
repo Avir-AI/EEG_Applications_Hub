@@ -159,7 +159,7 @@ Signal processing and machine learning techniques are crucial for accurately int
 
 ### What Are the Common Classifiers?
 **Machine Learning**
-- SVM - Support Vector Machine
+- **SVM - Support Vector Machine**
   - e.g. [Research progress of electroencephalogram (EEG) classification method and its application based on support vector machine (SVM)](https://ieeexplore.ieee.org/abstract/document/10373233)
 - KNN - K-Nearest Neighbors
   - e.g. [Cross subject emotion identification from multichannel EEG sub-bands using Tsallis entropy feature and KNN classifier](https://link.springer.com/article/10.1186/s40708-024-00220-3)
