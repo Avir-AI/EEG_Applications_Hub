@@ -25,7 +25,7 @@
     A Comprehensive List of Artificial Intelligence Applications in Electroencephalography
     <br />
     <hr width="500px;" color="red" size="10">
-     <p style="color:red;">This list was last updated in August 2024</p> 
+     <p style="color:red;">This list was last updated in **August 2024**</p> 
     <hr width="500px;" color="red" size="10">
     <br />
     <a href="https://github.com/Avir-AI"><strong>Explore other projects »</strong></a>
