@@ -80,8 +80,22 @@ Electroencephalography (EEG) is a non-invasive technique used to measure electri
 Neurons communicate through electrical impulses, and the collective activity of neurons generates electric fields that can be detected on the scalp.
 EEG measures these electric fields, typically in the range of microvolts (µV).
 The recorded signals are displayed as a series of waveforms, representing different frequencies and amplitudes of brain activity.
-<img src="images/EEG.jpg" width="500" height="500">
-Image by DC Studio on Freepik
+<!-- EEG Image -->
+<br />
+<div align="center">
+    <img src="images/EEG.jpg" width="500" height="500">
+  <p align="center">
+    Image by DC Studio on Freepik
+  </p>
+</div>
+
+
+
+
+
+
+
+
 ### Why is EEG Data so Compelling?
 1. EEG captures cognitive dynamics in the time frame in which cognition occurs.
     1. Cognitive, perceptual, linguistic, emotional, and motor processes are fast and most of them occur within tens to hundreds of milliseconds. 
