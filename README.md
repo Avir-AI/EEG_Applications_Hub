@@ -25,7 +25,7 @@
     A Comprehensive List of Artificial Intelligence Applications in Electroencephalography
     <br />
     <hr width="500px;" color="red" size="10">
-     <p style="color:red;">This list was last updated in  <b>August 2024<b></p> 
+     <p style="color:red;">This list was last updated in  <b>August 2024</b></p> 
     <hr width="500px;" color="red" size="10">
     <br />
     <a href="https://github.com/Avir-AI"><strong>Explore other projects »</strong></a>
@@ -162,49 +162,29 @@ Signal processing and machine learning techniques are crucial for accurately int
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### What Are the Common Classifiers?
-**Machine Learning**
-- **SVM - Support Vector Machine**
-  - e.g. [Research progress of electroencephalogram (EEG) classification method and its application based on support vector machine (SVM)](https://ieeexplore.ieee.org/abstract/document/10373233)
-- KNN - K-Nearest Neighbors
-  - e.g. [Cross subject emotion identification from multichannel EEG sub-bands using Tsallis entropy feature and KNN classifier](https://link.springer.com/article/10.1186/s40708-024-00220-3)
-- DT - Decision Tree
-  - e.g. [Pilot Fear Detection from EEG Signals Classified by Decision Tree During Landing Conditions](https://ieeexplore.ieee.org/abstract/document/10512896)
-- RF - Random Forest
-  - e.g. [AI-enhanced EEG signal interpretation: A novel approach using texture analysis with random forests](https://www.sciencedirect.com/science/article/abs/pii/S0306987724001488)
-- Logit Boost - a boosting algorithm for binary classification
-  - e.g. [AdaBoost And Its Variants: Boosting Methods For Classification With Small Sample Size And Brain Activity In Schizophrenia](https://dr.library.brocku.ca/handle/10464/17817)
-- ELM - Extreme Learning Machine
-  - e.g. [EEG-based covert speech decoding using random rotation extreme learning machine ensemble for intuitive BCI communication](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008333)
-- LDA - Linear Discriminant Analysis
-  - e.g. [Adaptive LDA Classifier Enhances Real-Time Control of an EEG Brain–Computer Interface for Decoding Imagined Syllables](https://www.mdpi.com/2076-3425/14/3/196)
-- TSK - Takagi–Sugeno–Kang
-  - e.g. [Motor imagery classification via stacking-based Takagi–Sugeno–Kang fuzzy classifier ensemble](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000424) 
+**Machine Learning:**
+- SVM - Support Vector Machine [e.g.](https://ieeexplore.ieee.org/abstract/document/10373233)
+- KNN - K-Nearest Neighbors [e.g.](https://link.springer.com/article/10.1186/s40708-024-00220-3)
+- DT - Decision Tree [e.g.](https://ieeexplore.ieee.org/abstract/document/10512896)
+- RF - Random Forest [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0306987724001488)
+- Logit Boost - a boosting algorithm for binary classification [e.g.](https://dr.library.brocku.ca/handle/10464/17817)
+- ELM - Extreme Learning Machine [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008333)
+- LDA - Linear Discriminant Analysis [e.g.](https://www.mdpi.com/2076-3425/14/3/196)
+- TSK - Takagi–Sugeno–Kang [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000424) 
 
 **Deep Learning:**
-- CNN - Convolutional Neural Network
-  - e.g. [Convolutional Neural Network-Based EEG Signal Analysis: A Systematic Review](https://link.springer.com/article/10.1007/s11831-023-09920-1)
-- Deep ConvNet- Deep Convolutional Network
-  - e.g. [A novel multi-scale fusion convolutional neural network for EEG-based motor imagery classification](https://www.sciencedirect.com/science/article/abs/pii/S1746809424007031)
-- DP CNN - DeepPyramid Convolutional Neural Network 
-  - e.g. [A novel method for diagnosing Alzheimer's disease using deep pyramid CNN based on EEG signals](https://www.sciencedirect.com/science/article/pii/S2405844023020650)
-- LSTM RNN - Long Short-Term Memory Recurrent Neural Network 
-  - e.g. [A deep learning based model using RNN-LSTM for the Detection of Schizophrenia from EEG data](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009337)
-- SNN - Spiking Neural Network / Siamese Neural Network 
-  - e.g. [EEG classification with spiking neural network: Smaller, better, more energy efficient](https://www.sciencedirect.com/science/article/abs/pii/S235264832100074X)
-- MLP - Multilayer Perceptron 
-  - e.g. [EEG-MLP: An all-MLP Architecture for EEG Emotion Recognition](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385434/1TOcnOCVMFW)
-- EEGNet - A specific Convolutional Neural Network architecture
-  - e.g. [An optimized EEGNet processor for low-power and real-time EEG classification in wearable brain–computer interfaces](https://www.sciencedirect.com/science/article/abs/pii/S0026269224000466)
-- Conv-AE - Convolutional Autoencoder
-  - e.g. [Combining EEG Features and Convolutional Autoencoder for Neonatal Seizure Detection](https://www.worldscientific.com/doi/10.1142/S0129065724500400)
-- GRU - Gated Recurrent Unit 
-  - e.g. [A GRU–CNN model for auditory attention detection using microstate and recurrence quantification analysis](https://www.nature.com/articles/s41598-024-58886-y)
-- AlexNet - A deep Convolutional Neural Network architecture
-  - e.g. [An efficient Parkinson's disease detection framework: Leveraging time-frequency representation and AlexNet convolutional neural network](https://www.sciencedirect.com/science/article/pii/S0010482524005468)
-- ViT - Vision Transformer
-  - e.g. [Music-evoked emotions classification using vision transformer in EEG signals](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1275142/full)
-- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers
-  - e.g. [A Lightweight Deep Learning Model for EEG Classification Across Visual Stimuli](https://ieeexplore.ieee.org/abstract/document/10580396)
+- CNN - Convolutional Neural Network [e.g.](https://link.springer.com/article/10.1007/s11831-023-09920-1)
+- Deep ConvNet- Deep Convolutional Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809424007031)
+- DP CNN - DeepPyramid Convolutional Neural Network [e.g.](https://www.sciencedirect.com/science/article/pii/S2405844023020650)
+- LSTM RNN - Long Short-Term Memory Recurrent Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009337)
+- SNN - Spiking Neural Network / Siamese Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S235264832100074X)
+- MLP - Multilayer Perceptron  [e.g.](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385434/1TOcnOCVMFW)
+- EEGNet - A specific Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0026269224000466)
+- Conv-AE - Convolutional Autoencoder [e.g.](https://www.worldscientific.com/doi/10.1142/S0129065724500400)
+- GRU - Gated Recurrent Unit [e.g.](https://www.nature.com/articles/s41598-024-58886-y)
+- AlexNet - A deep Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/pii/S0010482524005468)
+- ViT - Vision Transformer [e.g.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1275142/full)
+- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers [e.g.](https://ieeexplore.ieee.org/abstract/document/10580396)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
