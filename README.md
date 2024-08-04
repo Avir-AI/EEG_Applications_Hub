@@ -1178,12 +1178,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Useful Resources -->
 ## Useful Resources
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [EEG-Datasets Repository by meagmohit](https://github.com/meagmohit/EEG-Datasets)
-* [ElectrophysiologyData Repository by TomDonoghue](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
-* [OpenNeuroDatasets](https://github.com/orgs/OpenNeuroDatasets/repositories?type=all)
-* [A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10176120l)
+```Will be Added Soon```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
