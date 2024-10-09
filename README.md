@@ -785,6 +785,36 @@ Detecting Brain Tumor using Machines Learning Techniques Based on Different Feat
 
 </details>
 
+<details>
+  <summary>Speech Recognition</summary>
+  Brain-Computer Interfaces (BCIs) are transformative technologies that enable direct communication between the brain and external devices, offering potential applications in communication, rehabilitation, and human-computer interaction. The integration of EEG, a non-invasive method for recording brain activity, with AI technologies, significantly enhances the functionality and accuracy of BCIs. This synergy is crucial for processing the complex neural data involved, particularly in overcoming challenges such as data scarcity and the need for real-time processing. BCIs hold promise not only in medical fields, aiding those with motor impairments, but also in broader applications where interpreting neural signals can improve interaction with technology. As BCIs continue to evolve, addressing issues like data artifact removal and computational complexity is key to their advancement and widespread adoption.
+
+  
+  **Useful Resources:**
+    
+</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00779-017-1083-4">Envisioned speech recognition using EEG sensors
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443137723000042">Artifacts removal techniques in EEG data for BCI applications: A survey</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10509679">Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based Brain-Computer Interfaces: A Survey
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423009813">Integration of cloud computing in BCI: A review
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10579740">Motor Imagery Signal Classification Using Adversarial Learning: A Systematic Literature Review
+</a></li>
+  <li><a href="https://arxiv.org/abs/2404.15319">The largest EEG-based BCI reproducibility study for open science: the MOABB benchmark
+</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10605127">Speech imagery decoding using EEG signals and deep learning: A survey
+  <li><a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.1006763/full">Status of deep learning for EEG-based brain–computer interface applications</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10305163">Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S2214785321048033">Advances in modern EEG-BCI signal processing: A review
+</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2665917423001599">Machine learning techniques for electroencephalogram based brain-computer interface: A systematic literature review
+</a></li>
+<li><a href="https://www.mdpi.com/1424-8220/23/5/2798">EEG-Based BCIs on Motor Imagery Paradigm Using Wearable Technologies: A Systematic Review</a></li>
+
+</details>
 
 <details>
   <summary>Neurorehabilitation</summary>
