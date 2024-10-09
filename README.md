@@ -18,7 +18,7 @@
     <img src="images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">EEG Applications Hub</h3>
+  <h3 align="center">EEG-AI Applications Hub</h3>
 
   <p align="center">
     A Comprehensive List of Artificial Intelligence Applications in Electroencephalography
