@@ -1274,7 +1274,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Mahdi Abdollahzadeh - [@LinkedIn](https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203) - research.mahdi.ab@gmail.com
+**[Mahdi Abdollahzadeh](https://github.com/mehdi-zade) **
+- [@LinkedIn](https://www.linkedin.com/in/mahdi-abdollahzadeh-0b39a2203)
+- research.mahdi.ab@gmail.com
 
 Project Link: [EEG Applications Hub](https://github.com/Avir-AI/EEG_Applications_Hub)
 
