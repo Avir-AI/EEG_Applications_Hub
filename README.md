@@ -45,6 +45,8 @@
       <ul>
       </ul>
     </li>
+    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">🔶List of Artificial Intelligence Applications in Electroencephalography🔶</a></li>
+    <li><a href="#datasets">EEG Datasets</a></li>
     <li>
       <a href="#introduction-to-the-field">Introduction to the Field</a>
       <ul>
@@ -56,8 +58,6 @@
         <li><a href="#what-are-the-common-classifiers">What Are the Common Classifiers?</a></li>
       </ul>
     </li>
-    <li><a href="#list-of-artificial-intelligence-applications-in-electroencephalography">🔶List of Artificial Intelligence Applications in Electroencephalography🔶</a></li>
-    <li><a href="#datasets">EEG Datasets</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -73,118 +73,6 @@
 This meticulously curated list aims to showcase the latest breakthroughs in the fusion of Electroencephalography (EEG) and Artificial Intelligence (AI). By consolidating related fields and subfields, we've created a user-friendly framework that allows you to quickly explore them.
 
 Whether you're a researcher, student, or hobbyist, this guide is designed to serve as a valuable resource for your endeavors. We hope you find it informative, inspiring, and useful in exploring the vast potential of EEG-AI applications.
-
-
-<!-- GETTING STARTED -->
-## Introduction to the Field
-This part serves as a comprehensive introduction to the interdiciplinary field of EEG-AI, where the boundaries of neuroscience, computer science, and machine learning converge.
-
-### What is Electroencephalography(EEG)?
-
-Electroencephalography (EEG) is a non-invasive technique used to measure electrical activity in the brain. This method involves placing electrodes on the scalp, which detect tiny electrical signals produced by neurons firing in the brain. These signals are recorded as waveforms, which can be analyzed to understand brain function.
-Neurons communicate through electrical impulses, and the collective activity of neurons generates electric fields that can be detected on the scalp.
-EEG measures these electric fields, typically in the range of microvolts (µV).
-The recorded signals are displayed as a series of waveforms, representing different frequencies and amplitudes of brain activity.
-<!-- EEG Image -->
-<br />
-<div align="center">
-    <img src="images/EEG.jpg" width="500" height="500">
-  <p align="center">
-    Image by DC Studio on Freepik
-  </p>
-</div>
-
-
-
-
-### Why is EEG Data so Compelling?
-1. EEG captures cognitive dynamics in the time frame in which cognition occurs.
-    1. Cognitive, perceptual, linguistic, emotional, and motor processes are fast and most of them occur within tens to hundreds of milliseconds. 
-    2. Furthermore, cognitive events occur in a temporal sequence that may span hundreds of milliseconds to a few seconds. This means EEG which is a high temporal-resolution technique is well suited to capture these fast, dynamic, and temporally sequenced cognitive events.
-    3. As an example the temporal precision of the hemodynamic response which is captured by fMRI  is 2 – 3 orders of magnitude slower than that of the electrophysiological response.
-2. Neural Data is valuable and contains a wealth of information within.
-   1. Neural oscillations offer a window into the intricate workings of the human brain, providing valuable insights into cognition, behavior, and neural function.
-   2. Oscillations that can be observed in the EEG signal are direct reflections of neural oscillations in the cortex. 
-   3. The neurophysiological mechanisms that give rise to population-level oscillations are well understood and can be modeled fairly accurately.
-4. EEG signal is multidimensional. 
-    1. The multidimensionality of EEG data allows for analyses that are inspired by known physiological mechanisms. This offers the opportunity to link findings obtained through noninvasive recordings in humans to invasive recordings in nonhuman animals as well as to biophysical models of neural ensemble activity.
-    2. EEG data comprise at least four dimensions: time, space, frequency, and power and phase.
-        - Time series: The EEG signal is recorded over a period of time (usually several seconds or minutes), resulting in a time series of voltage values.
-        - Frequency bands: EEG signals can be divided into different frequency bands, such as:
-            - Delta (0.5-4 Hz): associated with sleep, relaxation, and unconsciousness
-            - Theta (4-8 Hz): associated with drowsiness, meditation, and unconsciousness
-            - Alpha (8-12 Hz): associated with relaxation, closed eyes, and decreased cortical activity
-            - Beta (13-30 Hz): associated with attention, cognitive processing, and motor activity
-            - Gamma (30-100 Hz): associated with higher-level cognitive processing, attention, and working memory
-        - Electrode locations: EEG signals are recorded from multiple electrodes placed on the scalp or brain surface. spacial locations
-        - Power and Phase: Power is the strength of frequency-band-specific activity and phase id the timing of it.
-          - They are discrete elements of a dimension because they provide largely independent information.
-          - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### What Are the Applications of EEG-AI in Various Fields?   
-Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
-1. **Neurological Disorder Diagnosis and Monitoring:** Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
-2. **Medical Procedures and Interventions:** Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
-3. **Cognitive and Performance Assessment:** Evaluating cognitive functions and mental workload in educational, professional, and clinical settings.
-4. **Assistive Technologies and Rehabilitation:** Developing devices and therapies for individuals with disabilities, including communication aids and mobility support.
-5. **Neuroscientific Research:** Studying brain function and neural mechanisms underlying various behaviors and cognitive processes.
-6. **Education and Sports:** Enhancing learning experiences and athletic performance through brain-computer interfaces and neurofeedback.
-7. **Consumer Applications:** Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
-8. **Marketing and Consumer Behavior:** Analyzing consumer responses and decision-making processes to optimize advertising and product design.
-9. **Military and Security:** Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### What Are the Common Preprocessing Methods?
-- Filtering (FIR & IIR): Fundamental for removing noise and isolating frequency bands.
-- Feature Extraction: Central to converting raw EEG data into meaningful features for classification.
-- Independent Component Analysis (ICA): Widely used for artifact removal and source separation.
-- Wavelet Transformation: Frequently used for time-frequency analysis of EEG signals.
-- Spectral Power: Commonly used to analyze the power distribution across frequency bands.
-- Spatial Filtering: Important for enhancing signal quality by focusing on relevant spatial components.
-- Entropy Methods: Increasingly popular for assessing complexity and variability in EEG signals.
-- Functional Connectivity: Gaining importance for studying interactions between different brain regions.
-- Topological Network Analysis: Used for understanding brain network properties, but less common.
-- Average Filtering: Basic noise reduction technique, but less sophisticated than others.
-- Biomarkers Based Features: Emerging field focusing on disease-specific features, gaining traction.
-- Synchronization Likelihood Features: Specialized for connectivity analysis, but not as commonly used.
-- RVMD (Robust Variational Mode Decomposition): Advanced signal decomposition technique, less widespread.
-- Network Based Fuzzy Learning: Specialized method, not widely adopted.
-- SLBP (Symmetrically Weighted Local Binary Patterns): Niche method for texture-like feature extraction, less common.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### What Are the Common Cross Validation Methods?
-- 5-fold Cross Validation
-- 10-fold Cross Validation
-- LOSO: Leave One Subject Out
-- LOTO: Leave One Trial Out
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### What Are the Common Classifiers?
-**Machine Learning:**
-- SVM - Support Vector Machine [e.g.](https://ieeexplore.ieee.org/abstract/document/10373233)
-- KNN - K-Nearest Neighbors [e.g.](https://link.springer.com/article/10.1186/s40708-024-00220-3)
-- DT - Decision Tree [e.g.](https://ieeexplore.ieee.org/abstract/document/10512896)
-- RF - Random Forest [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0306987724001488)
-- Logit Boost - a boosting algorithm for binary classification [e.g.](https://dr.library.brocku.ca/handle/10464/17817)
-- ELM - Extreme Learning Machine [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008333)
-- LDA - Linear Discriminant Analysis [e.g.](https://www.mdpi.com/2076-3425/14/3/196)
-- TSK - Takagi–Sugeno–Kang [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000424) 
-
-**Deep Learning:**
-- CNN - Convolutional Neural Network [e.g.](https://link.springer.com/article/10.1007/s11831-023-09920-1)
-- Deep ConvNet- Deep Convolutional Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809424007031)
-- DP CNN - DeepPyramid Convolutional Neural Network [e.g.](https://www.sciencedirect.com/science/article/pii/S2405844023020650)
-- LSTM RNN - Long Short-Term Memory Recurrent Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009337)
-- SNN - Spiking Neural Network / Siamese Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S235264832100074X)
-- MLP - Multilayer Perceptron  [e.g.](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385434/1TOcnOCVMFW)
-- EEGNet - A specific Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0026269224000466)
-- Conv-AE - Convolutional Autoencoder [e.g.](https://www.worldscientific.com/doi/10.1142/S0129065724500400)
-- GRU - Gated Recurrent Unit [e.g.](https://www.nature.com/articles/s41598-024-58886-y)
-- AlexNet - A deep Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/pii/S0010482524005468)
-- ViT - Vision Transformer [e.g.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1275142/full)
-- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers [e.g.](https://ieeexplore.ieee.org/abstract/document/10580396)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## List of Artificial Intelligence Applications in Electroencephalography
@@ -1234,6 +1122,121 @@ Use this space to list resources you find helpful and would like to give credit 
 * [A Systematic Review of Electroencephalography Open Datasets and Their Usage With Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10176120l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Introduction to the Field
+This part serves as a comprehensive introduction to the interdiciplinary field of EEG-AI, where the boundaries of neuroscience, computer science, and machine learning converge.
+
+### What is Electroencephalography(EEG)?
+
+Electroencephalography (EEG) is a non-invasive technique used to measure electrical activity in the brain. This method involves placing electrodes on the scalp, which detect tiny electrical signals produced by neurons firing in the brain. These signals are recorded as waveforms, which can be analyzed to understand brain function.
+Neurons communicate through electrical impulses, and the collective activity of neurons generates electric fields that can be detected on the scalp.
+EEG measures these electric fields, typically in the range of microvolts (µV).
+The recorded signals are displayed as a series of waveforms, representing different frequencies and amplitudes of brain activity.
+<!-- EEG Image -->
+<br />
+<div align="center">
+    <img src="images/EEG.jpg" width="500" height="500">
+  <p align="center">
+    Image by DC Studio on Freepik
+  </p>
+</div>
+
+
+
+
+### Why is EEG Data so Compelling?
+1. EEG captures cognitive dynamics in the time frame in which cognition occurs.
+    1. Cognitive, perceptual, linguistic, emotional, and motor processes are fast and most of them occur within tens to hundreds of milliseconds. 
+    2. Furthermore, cognitive events occur in a temporal sequence that may span hundreds of milliseconds to a few seconds. This means EEG which is a high temporal-resolution technique is well suited to capture these fast, dynamic, and temporally sequenced cognitive events.
+    3. As an example the temporal precision of the hemodynamic response which is captured by fMRI  is 2 – 3 orders of magnitude slower than that of the electrophysiological response.
+2. Neural Data is valuable and contains a wealth of information within.
+   1. Neural oscillations offer a window into the intricate workings of the human brain, providing valuable insights into cognition, behavior, and neural function.
+   2. Oscillations that can be observed in the EEG signal are direct reflections of neural oscillations in the cortex. 
+   3. The neurophysiological mechanisms that give rise to population-level oscillations are well understood and can be modeled fairly accurately.
+4. EEG signal is multidimensional. 
+    1. The multidimensionality of EEG data allows for analyses that are inspired by known physiological mechanisms. This offers the opportunity to link findings obtained through noninvasive recordings in humans to invasive recordings in nonhuman animals as well as to biophysical models of neural ensemble activity.
+    2. EEG data comprise at least four dimensions: time, space, frequency, and power and phase.
+        - Time series: The EEG signal is recorded over a period of time (usually several seconds or minutes), resulting in a time series of voltage values.
+        - Frequency bands: EEG signals can be divided into different frequency bands, such as:
+            - Delta (0.5-4 Hz): associated with sleep, relaxation, and unconsciousness
+            - Theta (4-8 Hz): associated with drowsiness, meditation, and unconsciousness
+            - Alpha (8-12 Hz): associated with relaxation, closed eyes, and decreased cortical activity
+            - Beta (13-30 Hz): associated with attention, cognitive processing, and motor activity
+            - Gamma (30-100 Hz): associated with higher-level cognitive processing, attention, and working memory
+        - Electrode locations: EEG signals are recorded from multiple electrodes placed on the scalp or brain surface. spacial locations
+        - Power and Phase: Power is the strength of frequency-band-specific activity and phase id the timing of it.
+          - They are discrete elements of a dimension because they provide largely independent information.
+          - For example, two brain regions might show similar power in the theta band but have different phases. This could indicate that they are involved in different cognitive processes, even though they are both active in the same frequency range.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### What Are the Applications of EEG-AI in Various Fields?   
+Signal processing and machine learning techniques are crucial for accurately interpreting EEG data, which is challenging due to its non-stationary nature, inter-subject variability, and low signal-to-noise ratio (SNR). In recent years, deep neural networks have been increasingly employed to address these challenges, often outperforming traditional EEG analysis methods. Here are some of the broad fields where EEG-AI is utilized:
+1. **Neurological Disorder Diagnosis and Monitoring:** Using EEG data to detect and monitor conditions like epilepsy, Alzheimer's, and other neurological disorders.
+2. **Medical Procedures and Interventions:** Assisting in procedures such as brain surgery and neurofeedback therapy by providing real-time brain activity monitoring.
+3. **Cognitive and Performance Assessment:** Evaluating cognitive functions and mental workload in educational, professional, and clinical settings.
+4. **Assistive Technologies and Rehabilitation:** Developing devices and therapies for individuals with disabilities, including communication aids and mobility support.
+5. **Neuroscientific Research:** Studying brain function and neural mechanisms underlying various behaviors and cognitive processes.
+6. **Education and Sports:** Enhancing learning experiences and athletic performance through brain-computer interfaces and neurofeedback.
+7. **Consumer Applications:** Creating products like neurofeedback games, meditation aids, and devices for mental wellness and stress management.
+8. **Marketing and Consumer Behavior:** Analyzing consumer responses and decision-making processes to optimize advertising and product design.
+9. **Military and Security:** Applications in monitoring alertness, cognitive load, and stress in high-risk situations, and enhancing training and performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### What Are the Common Preprocessing Methods?
+- Filtering (FIR & IIR): Fundamental for removing noise and isolating frequency bands.
+- Feature Extraction: Central to converting raw EEG data into meaningful features for classification.
+- Independent Component Analysis (ICA): Widely used for artifact removal and source separation.
+- Wavelet Transformation: Frequently used for time-frequency analysis of EEG signals.
+- Spectral Power: Commonly used to analyze the power distribution across frequency bands.
+- Spatial Filtering: Important for enhancing signal quality by focusing on relevant spatial components.
+- Entropy Methods: Increasingly popular for assessing complexity and variability in EEG signals.
+- Functional Connectivity: Gaining importance for studying interactions between different brain regions.
+- Topological Network Analysis: Used for understanding brain network properties, but less common.
+- Average Filtering: Basic noise reduction technique, but less sophisticated than others.
+- Biomarkers Based Features: Emerging field focusing on disease-specific features, gaining traction.
+- Synchronization Likelihood Features: Specialized for connectivity analysis, but not as commonly used.
+- RVMD (Robust Variational Mode Decomposition): Advanced signal decomposition technique, less widespread.
+- Network Based Fuzzy Learning: Specialized method, not widely adopted.
+- SLBP (Symmetrically Weighted Local Binary Patterns): Niche method for texture-like feature extraction, less common.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### What Are the Common Cross Validation Methods?
+- 5-fold Cross Validation
+- 10-fold Cross Validation
+- LOSO: Leave One Subject Out
+- LOTO: Leave One Trial Out
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### What Are the Common Classifiers?
+**Machine Learning:**
+- SVM - Support Vector Machine [e.g.](https://ieeexplore.ieee.org/abstract/document/10373233)
+- KNN - K-Nearest Neighbors [e.g.](https://link.springer.com/article/10.1186/s40708-024-00220-3)
+- DT - Decision Tree [e.g.](https://ieeexplore.ieee.org/abstract/document/10512896)
+- RF - Random Forest [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0306987724001488)
+- Logit Boost - a boosting algorithm for binary classification [e.g.](https://dr.library.brocku.ca/handle/10464/17817)
+- ELM - Extreme Learning Machine [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008333)
+- LDA - Linear Discriminant Analysis [e.g.](https://www.mdpi.com/2076-3425/14/3/196)
+- TSK - Takagi–Sugeno–Kang [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0950705123000424) 
+
+**Deep Learning:**
+- CNN - Convolutional Neural Network [e.g.](https://link.springer.com/article/10.1007/s11831-023-09920-1)
+- Deep ConvNet- Deep Convolutional Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S1746809424007031)
+- DP CNN - DeepPyramid Convolutional Neural Network [e.g.](https://www.sciencedirect.com/science/article/pii/S2405844023020650)
+- LSTM RNN - Long Short-Term Memory Recurrent Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0010482522009337)
+- SNN - Spiking Neural Network / Siamese Neural Network [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S235264832100074X)
+- MLP - Multilayer Perceptron  [e.g.](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385434/1TOcnOCVMFW)
+- EEGNet - A specific Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/abs/pii/S0026269224000466)
+- Conv-AE - Convolutional Autoencoder [e.g.](https://www.worldscientific.com/doi/10.1142/S0129065724500400)
+- GRU - Gated Recurrent Unit [e.g.](https://www.nature.com/articles/s41598-024-58886-y)
+- AlexNet - A deep Convolutional Neural Network architecture [e.g.](https://www.sciencedirect.com/science/article/pii/S0010482524005468)
+- ViT - Vision Transformer [e.g.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1275142/full)
+- ResNet18 - A version of the Residual Network (ResNet) architecture with 18 layers [e.g.](https://ieeexplore.ieee.org/abstract/document/10580396)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 <!-- Useful Resources -->
 ## Useful Resources
